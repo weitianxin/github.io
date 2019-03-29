@@ -15,22 +15,22 @@ Overall GPA: 3.74   Major GPA: 3.88
 Student of AI talent class
 
 Core Courses last semester:
-CS: Operating Systems(95) / Introduction to Artificial Intelligence(95) / Computer Network(90) 
+CS: Operating Systems(95) / Introduction to Artificial Intelligence(95) / Computer Network(90)   
 Math: Fundamentals of Operations Research(96) / Introduction to Cognitive Science(90)
 
 # Bio
 
 I am a junior student major in computer science at USTC and also a member of the AI talent class. My research interests includes machine learning, natural language processing, and data mining.
 
-# EDUCATIONS
+# Educations
 
-2016/07-Now | Computer Science, SCGY, University of Science and Technology of China
+2016/07-Now  |  Computer Science, SCGY, University of Science and Technology of China
 
-2019/07-2019/10 | Computer Science, University of California, Los Angeles
+2019/07-2019/10  |  Research Intern at Computer Science, University of California, Los Angeles
 
-Experience
+Research Experience
 ======
-- Key Laboratory of Big Data Analysis and Application| USTC            
+- Key Laboratory of Big Data Analysis and Application |  USTC            
 
   **Apr 2018-present**
 
@@ -44,7 +44,7 @@ Experience
   - Experimentally implemented a novel neural machine translation system based on google transformer, and built image caption model on the pretrained translation model to generate the reward for reinforcement learning.
   - Have submitted the paper to ACL.
 
-- National Engineering Laboratory for Speech and Language Information Processing | USTC 
+- National Engineering Laboratory for Speech and Language Information Processing  |  USTC 
 
   **May 2018- present**
 
@@ -64,5 +64,5 @@ Experience
 
 Submitted to ACL, still under review
 
-![1553858976747](C:\Users\Tianxin\AppData\Local\Temp\1553858976747.png)
+![1553858976747](..\images\pub1.png)
 
