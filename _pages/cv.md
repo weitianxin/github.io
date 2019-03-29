@@ -7,53 +7,68 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[School of the Gifted Young ](https://scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://www.ustc.edu.cn/)
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Overall GPA: 3.74   Major GPA: 3.88
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Student of AI talent class
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Core Courses last semester:
+CS: Operating Systems(95) / Introduction to Artificial Intelligence(95) / Computer Network(90)   
+Math: Fundamentals of Operations Research(96) / Introduction to Cognitive Science(90)
+
+# Bio
+
+I am a junior student major in computer science at USTC and also a member of the AI talent class. My research interests includes machine learning, natural language processing, and data mining.
+
+# Educations
+
+2016/07-Now  &#124  Computer Science, SCGY, University of Science and Technology of China
+
+2019/07-2019/10  &#124  Research Intern at Computer Science, University of California, Los Angeles
+
+# Research Experience
+
+- Key Laboratory of Big Data Analysis and Application &#124 USTC            
+
+  **Apr 2018-present**
+
+  **Advisor**: Professor Enhong Chen, School of Computer Science and Technology, USTC
+
+  **Project**: Multi-modal Neural machine translation with reinforcement learning methods
+
+- - The main task is to train a better translation model with the image description dataset that are much easier to obtain but hard to use than traditional multi-lingual dataset;
+  - Conducted literature research on neural machine translation systems and reinforcement learning methods;
+  - Design a novel reward function based on the image caption model to complete the reinforcement learning;
+  - Experimentally implemented a novel neural machine translation system based on google transformer, and built image caption model on the pretrained translation model to generate the reward for reinforcement learning.
+  - Have submitted the paper to ACL.
+
+- National Engineering Laboratory for Speech and Language Information Processing &#124 USTC 
+
+  **May 2018- present**
+
+  **Advisor**: Professor Wu Guo, School of Information Science and Technology, USTC
+
+  **Project**: Speech emotion classification based on Speech spectrograms
+
+  - The main task is to do emotion classification, I mainly conducted the experiment and propose some ideas to improve the results;
+  - Conducted literature research and get familiar with the iemocap database;
+  - Replicated the theoretical derivation and program implementation in the classic papers;
+  - Conducted different experiments on the server to derive optimized parameters;
+  - Currently working on further implementation, and the development of neural network algorithms.
+
+# Works
+
+**Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**    
+
+Submitted to ACL, still under review
+
+![1553858976747](..\images\pub1.png)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Engineering skills:** Proficient in C / C++ / Python / Java / MATLAB. 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Research Skills:** Frequent user of Latex. 
+
+**Language:** Fluent English, Native Mandarin, rich experience in scientific English writing and presentations. 
