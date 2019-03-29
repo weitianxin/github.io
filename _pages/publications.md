@@ -9,8 +9,12 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+# Publications
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**
+
+Submitted to ACL on March 04, 2019 
+
+This paper is about Neural Machine Translation.
+
+ 
