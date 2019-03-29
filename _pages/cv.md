@@ -23,13 +23,13 @@ I am a junior student major in computer science at USTC and also a member of the
 
 # Educations
 
-2016/07-Now  &#124  Computer Science, SCGY, University of Science and Technology of China
+2016/07-Now \|  Computer Science, SCGY, University of Science and Technology of China
 
-2019/07-2019/10  &#124  Research Intern at Computer Science, University of California, Los Angeles
+2019/07-2019/10  \|  Research Intern at Computer Science, University of California, Los Angeles
 
 # Research Experience
 
-- Key Laboratory of Big Data Analysis and Application &#124 USTC            
+- Key Laboratory of Big Data Analysis and Application \| USTC            
 
   **Apr 2018-present**
 
@@ -43,7 +43,7 @@ I am a junior student major in computer science at USTC and also a member of the
   - Experimentally implemented a novel neural machine translation system based on google transformer, and built image caption model on the pretrained translation model to generate the reward for reinforcement learning.
   - Have submitted the paper to ACL.
 
-- National Engineering Laboratory for Speech and Language Information Processing &#124 USTC 
+- National Engineering Laboratory for Speech and Language Information Processing \| USTC 
 
   **May 2018- present**
 
