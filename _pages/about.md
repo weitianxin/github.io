@@ -30,7 +30,7 @@ I am a junior student major in computer science at USTC and also a member of the
 
 Research Experience
 ======
-- Key Laboratory of Big Data Analysis and Application &#124 USTC            
+- Key Laboratory of Big Data Analysis and Application &#124; USTC            
 
   **Apr 2018-present**
 
