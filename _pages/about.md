@@ -7,12 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**I am actively looking for a Ph.D. position, please feel free to contact me if interested!**
 
 
 [School of the Gifted Young ](https://scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://www.ustc.edu.cn/)
 
 Student of AI talent class
+
+**I am actively looking for a Ph.D. position, please feel free to contact me if interested!**
+
 
 # Bio
 
@@ -88,13 +90,13 @@ Outstanding Students Scholarship for four consecutive years at USTC, 2016 - 2019
 
 Outstanding Freshmen Scholarship at USTC, 2016
 
-Zero parallel corpus Multimodal neural machine translation method. 		                             Number: CN110245364A  
+Zero parallel corpus Multimodal neural machine translation method. 		                             <p align="right">Number: CN110245364A</p>  
 Enhong Chen, Qi Liu, Yijun Wang, Tianxin Wei
 
-A meta-learning recommendation method for cold-start users.                                             Being Processed  
+A meta-learning recommendation method for cold-start users.                                             <p align="right">Being Processed</p>  
 Xiangnan He, Tianxin Wei, Ziwei Wu, Fuli Feng
 
-Mitigating popularity bias in recommendation system via a causal inference method                       Being Processed  
+Mitigating popularity bias in recommendation system via a causal inference method                       <p align="right">Being Processed</p>  
 Xiangnan He, Tianxin Wei, Fuli Feng, Jiawei Chen, Jinfeng Yi
 
 
