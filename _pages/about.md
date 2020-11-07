@@ -29,7 +29,7 @@ Today, all kinds of mainstream supervised learning tasks have achieved great per
 # Research Experience
 
 
-Visiting scholar in Prof. Wei Wang & Yizhou Sun’s group           	     July 2019 - Sept.2019  
+Visiting scholar in Prof. Wei Wang & Yizhou Sun’s group <span style="float:right;">July 2019 - Sept.2019</span> 
 Department of Computer Science, University of California, Los Angeles, USA 
 
 Remote research intern in Prof. Zhangyang Wang’s group  	                                          May. 2020 – Present  
@@ -46,27 +46,27 @@ Department of Computer Science, USTC, China
 
 # Publications (* denotes equal contribution)
 **Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning**  
-Tianxin Wei, Ziwei Wu, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, and Wei Wang.  
+**Tianxin Wei**, Ziwei Wu, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, and Wei Wang.  
 Accepted by the ICDM 2020 (Full Oral, Accept rate: 9.8%)
 [PDF]
 
 **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**  
-Tianxin Wei, Fuli Feng, Jiawei Chen, Chufeng Shi, Ziwei Wu, Jinfeng Yi, Xiangnan He  
+**Tianxin Wei**, Fuli Feng, Jiawei Chen, Chufeng Shi, Ziwei Wu, Jinfeng Yi, Xiangnan He  
 Submitted to WWW 2021 as the first author
 [PDF]
 
 **Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**  
-Yijun Wang*, Tianxin Wei*, Qi Liu, Enhong Chen  
+Yijun Wang*, **Tianxin Wei***, Qi Liu, Enhong Chen  
 Submitted to DASFAA 2021 as the Co-first author
 [PDF]
 
 **AR-Stock: Deep Augmented Relational Stock Prediction**  
-Tianxin Wei, Yuning You, Tianlong Chen  
+**Tianxin Wei**, Yuning You, Tianlong Chen  
 To be submitted as the first author
 [PDF]
 
 **Adversarial Self-supervised Learning for Speaker Identification**  
-Tianxin Wei, Ruirui Li, Oguz Elibol  
+**Tianxin Wei**, Ruirui Li, Oguz Elibol  
 Submitted to NAACL 2021 as the first author
 [PDF]
 
@@ -91,13 +91,13 @@ Outstanding Students Scholarship for four consecutive years at USTC, 2016 - 2019
 Outstanding Freshmen Scholarship at USTC, 2016
 
 Zero parallel corpus Multimodal neural machine translation method. 		         Number: CN110245364A  
-Enhong Chen, Qi Liu, Yijun Wang, Tianxin Wei
+Enhong Chen, Qi Liu, Yijun Wang, **Tianxin Wei**
 
 A meta-learning recommendation method for cold-start users.                                             Being Processed  
-Xiangnan He, Tianxin Wei, Ziwei Wu, Fuli Feng
+Xiangnan He, **Tianxin Wei**, Ziwei Wu, Fuli Feng
 
 Mitigating popularity bias in recommendation system via a causal inference method                       Being Processed  
-Xiangnan He, Tianxin Wei, Fuli Feng, Jiawei Chen, Jinfeng Yi
+Xiangnan He, **Tianxin Wei**, Fuli Feng, Jiawei Chen, Jinfeng Yi
 
 
 Skills
