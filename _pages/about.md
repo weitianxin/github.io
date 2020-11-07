@@ -29,10 +29,10 @@ Today, all kinds of mainstream supervised learning tasks have achieved great per
 # Research Experience
 
 
-Visiting scholar in Prof. Wei Wang & Yizhou Sun’s group <span style="float:right;">July 2019 - Sept.2019</span> 
+Visiting scholar in Prof. Wei Wang & Yizhou Sun’s group <span style="float:right;">July 2019 - Sept.2019</span>  
 Department of Computer Science, University of California, Los Angeles, USA 
 
-Remote research intern in Prof. Zhangyang Wang’s group  	                                          May. 2020 – Present  
+Remote research intern in Prof. Zhangyang Wang’s group  	                                          <span style="float:right;">May. 2020 – Present</span>  
 Department of Electrical & Computer Engineering, University of Texas at Austin, USA
 
 Remote intern advised by Dr. Ruirui Li and Dr.  in Amazon Alexa Group  	                            Aug. 2020 – Present
