@@ -81,7 +81,7 @@ Working Paper 2020
 **Adversarial robustness for Natural Language Processing**  
 Working Paper 2020
 
-# SERVICES & AWARDS & PATENTS
+# Services & Awards & Patents
 Invited Journal Reviewer: TOIS, TKDE
 
 Artificial Intelligence Honor Award (Top 5%)
