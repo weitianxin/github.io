@@ -90,7 +90,7 @@ Outstanding Students Scholarship for four consecutive years at USTC, 2016 - 2019
 
 Outstanding Freshmen Scholarship at USTC, 2016
 
-Zero parallel corpus Multimodal neural machine translation method. 		                             <p align="right">Number: CN110245364A</p>  
+Zero parallel corpus Multimodal neural machine translation method. 		         <h1 style="text-align:right">Number: CN110245364A</h1>  
 Enhong Chen, Qi Liu, Yijun Wang, Tianxin Wei
 
 A meta-learning recommendation method for cold-start users.                                             <p align="right">Being Processed</p>  
