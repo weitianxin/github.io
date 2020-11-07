@@ -27,56 +27,56 @@ Today, all kinds of mainstream supervised learning tasks have achieved great per
 # Research Experience
 
 
-Visiting scholar in Prof. Wei Wang & Yizhou Sun’s group           	                              July 2019 - Sept.2019
-Department of Computer Science, University of California, Los Angeles, USA 
+Visiting scholar in Prof. Wei Wang & Yizhou Sun’s group           	     <p align="right">July 2019 - Sept.2019</p>
+\\Department of Computer Science, University of California, Los Angeles, USA 
 
-Remote research intern in Prof. Zhangyang Wang’s group  	                                          May. 2020 – Present
+Remote research intern in Prof. Zhangyang Wang’s group  	                                          <p align="right">May. 2020 – Present</p>\\
 Department of Electrical & Computer Engineering, University of Texas at Austin, USA
 
-Remote intern advised by Dr. Ruirui Li and Dr.  in Amazon Alexa Group  	                            Aug. 2020 – Present
+Remote intern advised by Dr. Ruirui Li and Dr.  in Amazon Alexa Group  	                            <p align="right">Aug. 2020 – Present
 
-Research intern advised by Prof. Xiangnan He                                                      March. 2019 – Present
-Department of Data Science, USTC, China
+Research intern advised by Prof. Xiangnan He                                                      <p align="right">March. 2019 – Present</p>\\
+Department of Data Science, USTC, China\\
 Also co-advised by Dr. Fuli Feng in National University of Singapore and Dr. Jingfeng Yi in JD AI Research
 
-Research intern supervised by Prof. Qi Liu and Professor Enhong Chen 	                           June. 2020 – Aug. 2020
+Research intern supervised by Prof. Qi Liu and Professor Enhong Chen 	                           <p align="right">June. 2020 – Aug. 2020</p>\\
 Department of Computer Science, USTC, China
 
-# Publications ()
-**Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning**
-Tianxin Wei, Ziwei Wu, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, and Wei Wang.
+# Publications (* denotes equal contribution)
+**Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning**\\
+Tianxin Wei, Ziwei Wu, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, and Wei Wang.\\
 Accepted by the 20th IEEE International Conference on Data Mining (Full Oral, Accept rate: 9.8%)
 [PDF]
 
-**Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**
-Tianxin Wei, Fuli Feng, Jiawei Chen, Chufeng Shi, Ziwei Wu, Jinfeng Yi, Xiangnan He
+**Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**\\
+Tianxin Wei, Fuli Feng, Jiawei Chen, Chufeng Shi, Ziwei Wu, Jinfeng Yi, Xiangnan He\\
 Submitted to WWW 2021 as the first author
 [PDF]
 
-**Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**
-Yijun Wang*, Tianxin Wei*, Qi Liu, Enhong Chen
+**Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**\\
+Yijun Wang*, Tianxin Wei*, Qi Liu, Enhong Chen\\
 Submitted to DASFAA 2021 as the Co-first author
 [PDF]
 
-**AR-Stock: Deep Augmented Relational Stock Prediction**
-Tianxin Wei, Yuning You, Tianlong Chen
+**AR-Stock: Deep Augmented Relational Stock Prediction**\\
+Tianxin Wei, Yuning You, Tianlong Chen\\
 To be submitted as the first author
 [PDF]
 
-**Adversarial Self-supervised Learning for Speaker Identification**
-Tianxin Wei, Ruirui Li, Oguz Elibol
+**Adversarial Self-supervised Learning for Speaker Identification**\\
+Tianxin Wei, Ruirui Li, Oguz Elibol\\
 Submitted to NAACL 2021 as the first author
 [PDF]
 
 # Working Projects
 
-**Leveraging Sequential Popularity Drift for Online Recommendation**
+**Leveraging Sequential Popularity Drift for Online Recommendation**  
 Working Paper 2020
 
-**Automated Meta-path Discovery on Large-scale Knowledge Graph via Meta-learning**
+**Automated Meta-path Discovery on Large-scale Knowledge Graph via Meta-learning**  
 Working Paper 2020
 
-**Adversarial robustness for Natural Language Processing**
+**Adversarial robustness for Natural Language Processing**  
 Working Paper 2020
 
 # SERVICES & AWARDS & PATENTS
@@ -88,13 +88,13 @@ Outstanding Students Scholarship for four consecutive years at USTC, 2016 - 2019
 
 Outstanding Freshmen Scholarship at USTC, 2016
 
-Zero parallel corpus Multimodal neural machine translation method. 		                             Number: CN110245364A
+Zero parallel corpus Multimodal neural machine translation method. 		                             Number: CN110245364A  
 Enhong Chen, Qi Liu, Yijun Wang, Tianxin Wei
 
-A meta-learning recommendation method for cold-start users.                                             Being Processed
+A meta-learning recommendation method for cold-start users.                                             Being Processed  
 Xiangnan He, Tianxin Wei, Ziwei Wu, Fuli Feng
 
-Mitigating popularity bias in recommendation system via a causal inference method                       Being Processed
+Mitigating popularity bias in recommendation system via a causal inference method                       Being Processed  
 Xiangnan He, Tianxin Wei, Fuli Feng, Jiawei Chen, Jinfeng Yi
 
 

@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-My CV can be found [here](paper1.pdf).
+My CV can be found [here](../files/paper1.pdf).
