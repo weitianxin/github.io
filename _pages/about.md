@@ -29,19 +29,19 @@ Today, all kinds of mainstream supervised learning tasks have achieved great per
 # Research Experience
 
 
-Visiting scholar in Prof. Wei Wang & Yizhou Sun’s group           	     <p align="right">July 2019 - Sept.2019</p>  
+Visiting scholar in Prof. Wei Wang & Yizhou Sun’s group           	     July 2019 - Sept.2019  
 Department of Computer Science, University of California, Los Angeles, USA 
 
-Remote research intern in Prof. Zhangyang Wang’s group  	                                          <p align="right">May. 2020 – Present</p>  
+Remote research intern in Prof. Zhangyang Wang’s group  	                                          May. 2020 – Present  
 Department of Electrical & Computer Engineering, University of Texas at Austin, USA
 
-Remote intern advised by Dr. Ruirui Li and Dr.  in Amazon Alexa Group  	                            <p align="right">Aug. 2020 – Present
+Remote intern advised by Dr. Ruirui Li and Dr.  in Amazon Alexa Group  	                            Aug. 2020 – Present
 
-Research intern advised by Prof. Xiangnan He                                                      <p align="right">March. 2019 – Present</p>  
+Research intern advised by Prof. Xiangnan He                                                      March. 2019 – Present  
 Department of Data Science, USTC, China  
 Also co-advised by Dr. Fuli Feng in National University of Singapore and Dr. Jingfeng Yi in JD AI Research
 
-Research intern supervised by Prof. Qi Liu and Professor Enhong Chen 	    <p align="right">June. 2020 – Aug. 2020</p>  
+Research intern supervised by Prof. Qi Liu and Professor Enhong Chen 	    June. 2020 – Aug. 2020  
 Department of Computer Science, USTC, China
 
 # Publications (* denotes equal contribution)
@@ -90,13 +90,13 @@ Outstanding Students Scholarship for four consecutive years at USTC, 2016 - 2019
 
 Outstanding Freshmen Scholarship at USTC, 2016
 
-Zero parallel corpus Multimodal neural machine translation method. 		         <p align="right">Number: CN110245364A</p>  
+Zero parallel corpus Multimodal neural machine translation method. 		         Number: CN110245364A  
 Enhong Chen, Qi Liu, Yijun Wang, Tianxin Wei
 
-A meta-learning recommendation method for cold-start users.                                             <p align="right">Being Processed</p>  
+A meta-learning recommendation method for cold-start users.                                             Being Processed  
 Xiangnan He, Tianxin Wei, Ziwei Wu, Fuli Feng
 
-Mitigating popularity bias in recommendation system via a causal inference method                       <p align="right">Being Processed</p>  
+Mitigating popularity bias in recommendation system via a causal inference method                       Being Processed  
 Xiangnan He, Tianxin Wei, Fuli Feng, Jiawei Chen, Jinfeng Yi
 
 
