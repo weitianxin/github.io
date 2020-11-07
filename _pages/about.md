@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**I am actively looking for a Ph.D. position, please feel free to contact me if interested!**
+
 
 [School of the Gifted Young ](https://scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://www.ustc.edu.cn/)
 
@@ -14,49 +16,99 @@ Student of AI talent class
 
 # Bio
 
-I am a junior student major in computer science at USTC and also a member of the AI talent class. My research interests includes machine learning, natural language processing, and data mining.
+I am a senior student major in computer science at School of the Gifted Young, USTC and also a member of the AI talent class. My research interests includes data mining, natural language processing, and machine learning. 
 
-# Educations
+Today, all kinds of mainstream supervised learning tasks have achieved great performance. However, after this, data becomes the most important bottleneck. Based on my previous experience, there are three critical challenges: 1) Since annotated data is difficult to obtain, how to learn effective information from unlabeled data? 2) Deep learning models rely heavily on statistical correlations. How can models be made to reason more intelligently? 3) The effect of deep learning models depends to some extent on the bias in the data. How to eliminate such bias and make models more robust and fair? To address these issues, first I would like to research designing more effective self-supervised and unsupervised learning tasks. Then I want to deepen my knowledge of causal inference and empower models with counterfactual thinking and intelligent inference. Causal inference techniques and adversarial training techniques can also help train more unbiased and fair models.
+
+# Education
 
 2016/07-Now  \|  Computer Science, SCGY, University of Science and Technology of China
 
-2019/07-2019/10  \|  Research Intern at Computer Science, University of California, Los Angeles
+# Research Experience
 
-Research Experience
+
+Visiting scholar in Prof. Wei Wang & Yizhou Sun’s group           	                              July 2019 - Sept.2019
+Department of Computer Science, University of California, Los Angeles, USA 
+
+Remote research intern in Prof. Zhangyang Wang’s group  	                                          May. 2020 – Present
+Department of Electrical & Computer Engineering, University of Texas at Austin, USA
+
+Remote intern advised by Dr. Ruirui Li and Dr.  in Amazon Alexa Group  	                            Aug. 2020 – Present
+
+Research intern advised by Prof. Xiangnan He                                                      March. 2019 – Present
+Department of Data Science, USTC, China
+Also co-advised by Dr. Fuli Feng in National University of Singapore and Dr. Jingfeng Yi in JD AI Research
+
+Research intern supervised by Prof. Qi Liu and Professor Enhong Chen 	                           June. 2020 – Aug. 2020
+Department of Computer Science, USTC, China
+
+# Publications ()
+**Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning**
+Tianxin Wei, Ziwei Wu, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, and Wei Wang.
+Accepted by the 20th IEEE International Conference on Data Mining (Full Oral, Accept rate: 9.8%)
+[PDF]
+
+**Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**
+Tianxin Wei, Fuli Feng, Jiawei Chen, Chufeng Shi, Ziwei Wu, Jinfeng Yi, Xiangnan He
+Submitted to WWW 2021 as the first author
+[PDF]
+
+**Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**
+Yijun Wang*, Tianxin Wei*, Qi Liu, Enhong Chen
+Submitted to DASFAA 2021 as the Co-first author
+[PDF]
+
+**AR-Stock: Deep Augmented Relational Stock Prediction**
+Tianxin Wei, Yuning You, Tianlong Chen
+To be submitted as the first author
+[PDF]
+
+**Adversarial Self-supervised Learning for Speaker Identification**
+Tianxin Wei, Ruirui Li, Oguz Elibol
+Submitted to NAACL 2021 as the first author
+[PDF]
+
+# Working Projects
+
+**Leveraging Sequential Popularity Drift for Online Recommendation**
+Working Paper 2020
+
+**Automated Meta-path Discovery on Large-scale Knowledge Graph via Meta-learning**
+Working Paper 2020
+
+**Adversarial robustness for Natural Language Processing**
+Working Paper 2020
+
+# SERVICES & AWARDS & PATENTS
+Invited Journal Reviewer: TOIS, TKDE
+
+Artificial Intelligence Honor Award (Top 5%)
+
+Outstanding Students Scholarship for four consecutive years at USTC, 2016 - 2019 (Top 10%)
+
+Outstanding Freshmen Scholarship at USTC, 2016
+
+Zero parallel corpus Multimodal neural machine translation method. 		                             Number: CN110245364A
+Enhong Chen, Qi Liu, Yijun Wang, Tianxin Wei
+
+A meta-learning recommendation method for cold-start users.                                             Being Processed
+Xiangnan He, Tianxin Wei, Ziwei Wu, Fuli Feng
+
+Mitigating popularity bias in recommendation system via a causal inference method                       Being Processed
+Xiangnan He, Tianxin Wei, Fuli Feng, Jiawei Chen, Jinfeng Yi
+
+
+Skills
 ======
-- Key Laboratory of Big Data Analysis and Application \| USTC            
+**Engineering skills:** Proficient in C / C++ / Python / Java / MATLAB. 
 
-  **Apr 2018-present**
+**Research Skills:** Frequent user of Latex. 
 
-  **Advisor**: Professor Enhong Chen, School of Computer Science and Technology, USTC
+**Language:** Fluent English, Native Mandarin, rich experience in scientific English writing and presentations. 
 
-  **Project**: Multi-modal Neural machine translation with reinforcement learning methods
-
-- - The main task is to train a better translation model with the image description dataset that are much easier to obtain but hard to use than traditional multi-lingual dataset;
-  - Conducted literature research on neural machine translation systems and reinforcement learning methods;
-  - Design a novel reward function based on the image caption model to complete the reinforcement learning;
-  - Experimentally implemented a novel neural machine translation system based on google transformer, and built image caption model on the pretrained translation model to generate the reward for reinforcement learning.
-  - Have submitted the paper to ACL.
-
-- National Engineering Laboratory for Speech and Language Information Processing \| USTC 
-
-  **May 2018- present**
-
-  **Advisor**: Professor Wu Guo, School of Information Science and Technology, USTC
-
-  **Project**: Speech emotion classification based on Speech spectrograms
-
-  - The main task is to do emotion classification, I mainly conducted the experiment and propose some ideas to improve the results;
-  - Conducted literature research and get familiar with the iemocap database;
-  - Replicated the theoretical derivation and program implementation in the classic papers;
-  - Conducted different experiments on the server to derive optimized parameters;
-  - Currently working on further implementation, and the development of neural network algorithms.
-
-# Works
-
-**Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**    
+<!-- **Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**    
 
 Submitted to ACL, still under review
 
-![1553858976747](..\images\pub1.png)
+![1553858976747](..\images\pub1.png) -->
 
