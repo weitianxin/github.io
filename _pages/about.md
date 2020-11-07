@@ -96,7 +96,7 @@ Enhong Chen, Qi Liu, Yijun Wang, **Tianxin Wei**
 A meta-learning recommendation method for cold-start users.                                             <span style="float:right;">Being Processed</span>  
 Xiangnan He, **Tianxin Wei**, Ziwei Wu, Fuli Feng
 
-Mitigating popularity bias in recommendation system via a causal inference method                       <span style="float:right;">Being Processed</span>  
+Mitigating popularity bias in recommendation system via causal inference                       <span style="float:right;">Being Processed</span>  
 Xiangnan He, **Tianxin Wei**, Fuli Feng, Jiawei Chen, Jinfeng Yi
 
 
