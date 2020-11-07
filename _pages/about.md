@@ -10,13 +10,7 @@ redirect_from:
 
 [School of the Gifted Young ](https://scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://www.ustc.edu.cn/)
 
-Overall GPA: 3.74   Major GPA: 3.88
-
 Student of AI talent class
-
-Core Courses last semester:
-CS: Operating Systems(95) / Introduction to Artificial Intelligence(95) / Computer Network(90)   
-Math: Fundamentals of Operations Research(96) / Introduction to Cognitive Science(90)
 
 # Bio
 
