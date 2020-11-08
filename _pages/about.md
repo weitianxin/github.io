@@ -54,7 +54,7 @@ Accepted by the ICDM 2020 (Full Oral, Accept rate: 9.8%)
 **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**  
 **Tianxin Wei**, Fuli Feng, Jiawei Chen, Chufeng Shi, Ziwei Wu, Jinfeng Yi, Xiangnan He  
 Submitted to WWW 2021 as the first author
-[[PDF](../files/_WWW_2021_Causal_Bias_.pdf)]
+[[PDF](https://arxiv.org/pdf/2010.15363.pdf)]
 
 **Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**  
 Yijun Wang*, **Tianxin Wei**\*, Qi Liu, Enhong Chen  
