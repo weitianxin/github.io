@@ -57,7 +57,7 @@ Submitted to WWW 2021 as the first author
 [[PDF](../files/_WWW_2021_Causal_Bias_.pdf)]
 
 **Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**  
-Yijun Wang*, **Tianxin Wei***, Qi Liu, Enhong Chen  
+Yijun Wang*, **Tianxin Wei**\*, Qi Liu, Enhong Chen  
 Submitted to DASFAA 2021 as the Co-first author
 [[PDF](../files/_DASFAA_2021_NMT__.pdf)]
 
