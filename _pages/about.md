@@ -37,7 +37,7 @@ Department of Electrical & Computer Engineering, University of Texas at Austin, 
 
 Remote intern advised by Dr. **Ruirui Li** and Dr. **Oguz Elibol** in Amazon Alexa Group  	                            <span style="float:right;">Aug. 2020 – Present</span>
 
-Research intern advised by Prof. **Xiangnan He**                                                      <span style="float:right;">March. 2019 – Present</span>  
+Research intern advised by Prof. **Xiangnan He**             <span style="float:right;">March. 2019 – Present</span>   
 Department of Data Science, USTC, China  
 Also co-advised by Dr. **Fuli Feng** in National University of Singapore and Dr. **Jingfeng Yi** in JD AI Research
 
