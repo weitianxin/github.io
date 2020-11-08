@@ -48,22 +48,22 @@ Department of Computer Science, USTC, China
 **Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning**  
 **Tianxin Wei**, Ziwei Wu, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, and Wei Wang.  
 Accepted by the ICDM 2020 (Full Oral, Accept rate: 9.8%)
-[PDF](../files/ICDM_2020_MetaCF.pdf)
+[[PDF](../files/ICDM_2020_MetaCF.pdf)]
 
 **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**  
 **Tianxin Wei**, Fuli Feng, Jiawei Chen, Chufeng Shi, Ziwei Wu, Jinfeng Yi, Xiangnan He  
 Submitted to WWW 2021 as the first author
-[PDF]
+[[PDF](../files/_WWW_2021_Causal_Bias_.pdf)]
 
 **Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**  
 Yijun Wang*, **Tianxin Wei***, Qi Liu, Enhong Chen  
 Submitted to DASFAA 2021 as the Co-first author
-[PDF]
+[[PDF](../files/_DASFAA_2021_NMT__.pdf)]
 
 **AR-Stock: Deep Augmented Relational Stock Prediction**  
 **Tianxin Wei**, Yuning You, Tianlong Chen  
 To be submitted as the first author
-[PDF]
+[[PDF](../files/_AAAI21_ARStock_.pdf)]
 
 **Adversarial Self-supervised Learning for Speaker Identification**  
 **Tianxin Wei**, Ruirui Li, Oguz Elibol  
