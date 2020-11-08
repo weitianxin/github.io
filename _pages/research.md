@@ -3,9 +3,6 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-redirect_from:
-- /research/
-- /research.html
 ---
 
 Adviser: Professor Wei Wang &Yizhou Sun | Department of CS | UCLA       <span style="float:right;">Aug. 2019 – Mar. 2020</span>  
