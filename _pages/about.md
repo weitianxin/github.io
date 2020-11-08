@@ -24,12 +24,12 @@ Today, all kinds of mainstream supervised learning tasks have achieved great per
 
 # Education
 
-2016/07-Now  \|  Computer Science, SCGY, University of Science and Technology of China
+Computer Science, SCGY, University of Science and Technology of China <span style="float:right;">July. 2016-Now</span>
 
 # Research Experience
 
 
-Visiting scholar in Prof. **Wei Wang** & **Yizhou Sun**’s group <span style="float:right;">July 2019 - Sept.2019</span>  
+Visiting scholar in Prof. **Wei Wang** & **Yizhou Sun**’s group <span style="float:right;">July. 2019 - Sept.2019</span>  
 Department of Computer Science, University of California, Los Angeles, USA 
 
 Remote research intern in Prof. **Zhangyang Wang**’s group  	                                          <span style="float:right;">May. 2020 – Present</span>  
