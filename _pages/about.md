@@ -21,8 +21,7 @@ Student of AI talent class
 
 I am a senior student major in computer science at School of the Gifted Young, USTC and also a member of the AI talent class. My research interests includes data mining, natural language processing, and machine learning. 
 
-Today, all kinds of mainstream supervised learning tasks have achieved great performance. However, after this, data becomes the most important bottleneck. Based on my previous experience, there are three critical challenges: 1) Since annotated data is difficult to obtain, how to learn effective information from unlabeled data? 2) Deep learning models rely heavily on statistical correlations. How can models be made to reason more intelligently? 3) The effect of deep learning models depends to some extent on the bias in the data. How to eliminate such bias and make models more robust and fair? To address these issues, first I would like to research designing more effective self-supervised and unsupervised learning tasks. Then I want to deepen my knowledge of causal inference and empower models with counterfactual thinking and intelligent inference. Causal inference techniques and adversarial training techniques can also help train more unbiased and fair models.
-
+Today, all kinds of mainstream supervised learning tasks have achieved great performance. However, after this, problems about data have become the most important bottleneck. To address such issue, I do research in the following three directions. First I leverage the knowledge of causal inference and empower models with counterfactual thinking and intelligent inference. Second I design algorithms that eliminate bias in data mining and make models more robust and fair. Last I focus on learning effective information from unlabeled data, e.g. self-supervision and unsupervised learning. 
 # Education
 
 Computer Science, SCGY, University of Science and Technology of China <span style="float:right;">July. 2016-Now</span>
