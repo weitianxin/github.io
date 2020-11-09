@@ -110,7 +110,8 @@ Skills
 **Language:** Fluent English, Native Mandarin, rich experience in scientific English writing and presentations. 
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=LkcLlsPL9fvSZpTuW30bRFz_4rlqU2VtY7qcHXBpR1c"></script>
+<a href="https://clustrmaps.com/site/1beb4" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=LkcLlsPL9fvSZpTuW30bRFz_4rlqU2VtY7qcHXBpR1c&cl=ffffff"></a>
+
 
 
 <!-- **Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**    
