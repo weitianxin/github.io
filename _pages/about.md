@@ -78,7 +78,7 @@ Working Paper 2020
 **Automated Meta-path Discovery on Large-scale Knowledge Graph via Meta-learning**  
 Working Paper 2020
 
-**Adversarial robustness for Natural Language Processing**  
+**Adversarial Robustness for Natural Language Processing**  
 Working Paper 2020
 
 # Services & Awards & Patents
