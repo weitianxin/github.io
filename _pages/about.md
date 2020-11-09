@@ -109,8 +109,14 @@ Skills
 
 **Language:** Fluent English, Native Mandarin, rich experience in scientific English writing and presentations. 
 
+# Contact
+<li>
+                                <i class="fa-li fa fa-envelope fa-2x" aria-hidden="true"></i>
+                                <span>
+                                    <a href="mailto:bull@pku.edu.cn">rouseau@mail.ustc.edu.cn</a></span>
+                            </li>
 
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=LkcLlsPL9fvSZpTuW30bRFz_4rlqU2VtY7qcHXBpR1c&cl=ffffff&w=a"></script> -->
+<a href="https://clustrmaps.com/site/1beb4" title="Visit"><img src="//www.clustrmaps.com/map_v2.png?d=LkcLlsPL9fvSZpTuW30bRFz_4rlqU2VtY7qcHXBpR1c&cl=ffffff"></a>
 
 
 
