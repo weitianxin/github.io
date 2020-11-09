@@ -62,7 +62,7 @@ Submitted to DASFAA 2021 as the Co-first author
 
 **AR-Stock: Deep Augmented Relational Stock Prediction**  
 **Tianxin Wei**, Yuning You, Tianlong Chen  
-To be submitted as the first author
+Submitted to AAAI 2021 as the first author
 [[PDF](../files/_AAAI21_ARStock_.pdf)]
 
 **Adversarial Self-supervised Learning for Speaker Identification**  
