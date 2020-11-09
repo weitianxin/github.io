@@ -110,7 +110,7 @@ Skills
 **Language:** Fluent English, Native Mandarin, rich experience in scientific English writing and presentations. 
 
 
-<a href="https://clustrmaps.com/site/1beb4" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=LkcLlsPL9fvSZpTuW30bRFz_4rlqU2VtY7qcHXBpR1c&cl=ffffff"></a>
+<a href="https://clustrmaps.com/site/1beb4" title="Visit"><img src="//www.clustrmaps.com/map_v2.png?d=LkcLlsPL9fvSZpTuW30bRFz_4rlqU2VtY7qcHXBpR1c&cl=ffffff"></a>
 
 
 
