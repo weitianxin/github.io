@@ -57,8 +57,8 @@ Submitted to WWW 2021 as the first author
 
 **Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**  
 Yijun Wang*, **Tianxin Wei**\*, Qi Liu, Enhong Chen  
-Submitted to DASFAA 2021 as the Co-first author
-[[PDF](../files/_DASFAA_2021_NMT__.pdf)]
+To be Submitted
+[[PDF](../files/__NMT__.pdf)]
 
 **AR-Stock: Deep Augmented Relational Stock Prediction**  
 **Tianxin Wei**, Yuning You, Tianlong Chen  
@@ -80,9 +80,9 @@ Advisor: Prof. Xiangnan He
 Working Paper 2020
 Advisor: Prof. Yizhou Sun & Prof. Wei Wang
 
-**Adversarial Robustness for Natural Language Processing**  
+<!-- **Adversarial Robustness for Natural Language Processing**  
 Working Paper 2020
-Advisor: Prof. Zhangyang Wang
+Advisor: Prof. Zhangyang Wang -->
 
 **A Survey of Finance in Information Retrieve**  
 Working Paper 2020
