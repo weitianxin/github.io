@@ -58,12 +58,12 @@ Submitted to WWW 2021 as the first author
 **Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**  
 Yijun Wang*, **Tianxin Wei**\*, Qi Liu, Enhong Chen  
 To be Submitted
-[[PDF](../files/__NMT__.pdf)]
+[[PDF](../files/NMT.pdf)]
 
 **AR-Stock: Deep Augmented Relational Stock Prediction**  
 **Tianxin Wei**, Yuning You, Tianlong Chen  
 Submitted to AAAI 2021 as the first author
-[[PDF](../files/_AAAI21_ARStock_.pdf)]
+[[PDF](../files/AAAI21_ARStock.pdf)]
 
 **Adversarial Self-supervised Learning for Speaker Identification**  
 **Tianxin Wei**, Ruirui Li, Oguz Elibol  
