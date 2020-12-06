@@ -46,8 +46,8 @@ Department of Computer Science, USTC, China
 
 # Publications (* denotes equal contribution)
 **Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning**  
-**Tianxin Wei**, Ziwei Wu, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, and Wei Wang
-Accepted by the ICDM 2020 (**Full Oral**, Accept rate: 9.8%) 10 Pages\\
+**Tianxin Wei**, Ziwei Wu, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, and Wei Wang\\
+Accepted by the ICDM 2020 (**Full Oral**, Accept rate: 9.8%). 10 Pages\\
 [[PDF](../files/ICDM_2020_MetaCF.pdf)]
 
 **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**  
