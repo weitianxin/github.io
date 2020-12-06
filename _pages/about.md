@@ -72,13 +72,9 @@ Submitted to NAACL 2021 as the first author. 9 Pages\\
 
 # Working Projects
 
-**Leveraging Sequential Popularity Drift for Online Recommendation**  
+**Leveraging Sequential Popularity Drift for Correcting Bias in Online Recommendation**  
 Working Paper 2020
 Advisor: Prof. Xiangnan He
-
-**Automated Meta-path Discovery on Large-scale Knowledge Graph via Meta-learning**  
-Working Paper 2020
-Advisor: Prof. Yizhou Sun & Prof. Wei Wang
 
 **Adversarial Training Method for Robustness in Natural Language Processing**  
 Working Paper 2020
@@ -87,6 +83,10 @@ Advisor: Prof. Zhangyang Wang
 **A Survey of Finance in Information Retrieve**  
 Working Paper 2020
 Advisor: Prof. Xiangnan He & Prof. Yiqun Liu
+
+**Automated Meta-path Discovery on Large-scale Knowledge Graph via Meta-learning**  
+Working Paper 2020
+Advisor: Prof. Yizhou Sun & Prof. Wei Wang
 
 # Services & Awards & Patents
 Invited Journal Reviewer: TOIS, TKDE
