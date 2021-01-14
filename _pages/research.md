@@ -38,3 +38,4 @@ Adviser: **Dr. Ruirui Li & Dr. Oguz Elibol | Amazon Alexa**           <span styl
 Project: **Adversarial Self-supervised Learning for Speaker Identification**
 * I introduced both frame-mask and frequency-mask based self-supervised reconstruction tasks to enhance the training of speaker identification task in the context of multi-task learning;
 * I designed the adversarial loss to enhance the self-supervision reconstruction, to improve the identification accuracy.
+* I submitted to NAACL 2021 as the first author
