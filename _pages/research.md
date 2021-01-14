@@ -24,13 +24,14 @@ Adviser: **Professor Zhangyang Wang | Department of ECE | UT-Austin**        <sp
 Project: **AR-Stock: Deep Augmented Relational Stock Prediction**
 * I proposed to extend the traditional graph neural network to accurately predict stock trends by leveraging the rich information in the stock knowledge graph;
 * I designed a geometric augmentation approach to discover hidden long-range dependencies between stocks. Also, I leveraged self-supervised learning to facilitate GCN training and to enforce global and local graph structure awareness. 
+* Preliminary work presented at AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data.
 
 
 Adviser: **Professor Qi Liu & Professor Enhong Chen | CS | USTC**            <span style="float:right;">June. 2020 – Aug. 2020</span>  
 Project: **Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**	
 * To resolve the data scarcity problem for low resource language pairs in machine translation, I designed a translation model with the image description dataset which is much easier to obtain but harder to use than traditional multi-lingual dataset;
 * Designed a novel reward function for reinforcement learning based on the image caption model to capture the consistency between the language and images;
-* The paper has been submitted to DASFAA as the co-first author and a patent is obtained.
+* The paper, which I’m the co-first author, has been accepted by DASFAA 2021 as a full paper. A patent is also obtained.
 
 
 Adviser: **Dr. Ruirui Li & Dr. Oguz Elibol | Amazon Alexa**           <span style="float:right;">Aug 2020-present</span>  
