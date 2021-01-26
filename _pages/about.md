@@ -51,7 +51,7 @@ Accepted by the ICDM 2020 (**Full Oral**, Accept rate: 9.8%). 10 Pages\\
 [[PDF](../files/ICDM_2020_MetaCF.pdf)]
 
 **Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**  
-Yijun Wang*, **Tianxin Wei**\*, Qi Liu, Enhong Chen  
+**Tianxin Wei**\*, Yijun Wang*, Qi Liu, Enhong Chen  
 Accepted by the DASFAA 2021 (Full Research, Accept rate: ~15%). 16 Pages\\
 [[PDF](../files/NMT.pdf)]
 
