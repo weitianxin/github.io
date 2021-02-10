@@ -57,7 +57,7 @@ Accepted by the DASFAA 2021 (Full Research, Accept rate: ~15%). 16 Pages\\
 
 **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**  
 **Tianxin Wei**, Fuli Feng, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He  
-Submitted to KDD 2021. 10 Pages (Previously submitted to WWW 2021 (Got Accept / Weak Accept / Weak Reject before Rebuttal Period))\\
+Submitted to KDD 2021. 10 Pages (Previously got Accept / Weak Accept / Weak Reject at WWW 2021))\\
 
 [[PDF](https://arxiv.org/pdf/2010.15363.pdf)]
 
