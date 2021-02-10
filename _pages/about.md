@@ -63,11 +63,12 @@ Submitted to KDD 2021. 10 Pages (Previously got Accept / Weak Accept / Weak Reje
 **Causal Intervention for Leveraging Popularity Bias in Recommendation**
 Yang Zhang, Fuli Feng, Xiangnan He, **Tianxin Wei**, Chonggang Song, Guohui Ling and Yongdong Zhang	
 Submitted to SIGIR 2021. 10 Pages.
+[PDF]
 
 **AR-Stock: Deep Augmented Relational Stock Prediction**  
 **Tianxin Wei**, Yuning You, Tianlong Chen  
-Preliminary work presented at AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data **(Oral)**. 9 Pages\\
-Submitted to KDD 2021.
+Preliminary work presented at AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data **(Oral)**.\\
+Submitted to KDD 2021. 9 Pages.\\
 [[PDF](../files/AAAI21_ARStock.pdf)]
 
 **Adversarial Self-supervised Learning for Speaker Identification**  
