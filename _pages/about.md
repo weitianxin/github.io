@@ -56,13 +56,19 @@ Accepted by the DASFAA 2021 (Full Research, Accept rate: ~15%). 16 Pages\\
 [[PDF](../files/NMT.pdf)]
 
 **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**  
-**Tianxin Wei**, Fuli Feng, Jiawei Chen, Chufeng Shi, Ziwei Wu, Jinfeng Yi, Xiangnan He  
-Submitted to WWW 2021 as the first author (Got Accept / Weak Accept / Weak Reject before Rebuttal Period). 10 Pages\\
+**Tianxin Wei**, Fuli Feng, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He  
+Submitted to KDD 2021. 10 Pages (Previously submitted to WWW 2021 (Got Accept / Weak Accept / Weak Reject before Rebuttal Period))\\
+
 [[PDF](https://arxiv.org/pdf/2010.15363.pdf)]
+
+**Causal Intervention for Leveraging Popularity Bias in Recommendation**
+Yang Zhang, Fuli Feng, Xiangnan He, **Tianxin Wei**, Chonggang Song, Guohui Ling and Yongdong Zhang	
+Submitted to SIGIR 2021. 10 Pages.
 
 **AR-Stock: Deep Augmented Relational Stock Prediction**  
 **Tianxin Wei**, Yuning You, Tianlong Chen  
-Preliminary work presented at AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data **(Oral)**. 8 Pages\\
+Preliminary work presented at AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data **(Oral)**. 9 Pages\\
+Submitted to KDD 2021.
 [[PDF](../files/AAAI21_ARStock.pdf)]
 
 **Adversarial Self-supervised Learning for Speaker Identification**  
@@ -71,10 +77,6 @@ Submitted to NAACL 2021 as the first author. 9 Pages\\
 [PDF]
 
 # Working Projects
-
-**Leveraging Sequential Popularity Drift for Correcting Bias in Online Recommendation**  
-Working Paper 2020
-Advisor: Prof. Xiangnan He
 
 **Adversarial Training Method for Robustness in Natural Language Processing**  
 Working Paper 2020
