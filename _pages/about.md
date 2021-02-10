@@ -61,7 +61,7 @@ Submitted to KDD 2021. 10 Pages. (Previously got Accept / Weak Accept / Weak Rej
 [[PDF](https://arxiv.org/pdf/2010.15363.pdf)]
 
 **Causal Intervention for Leveraging Popularity Bias in Recommendation**\\
-Yang Zhang, Fuli Feng, Xiangnan He, **Tianxin Wei**, Chonggang Song, Guohui Ling and Yongdong Zhang	
+Yang Zhang, Fuli Feng, Xiangnan He, **Tianxin Wei**, Chonggang Song, Guohui Ling and Yongdong Zhang\\
 Submitted to SIGIR 2021. 10 Pages.\\
 [PDF]
 
