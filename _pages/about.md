@@ -47,17 +47,17 @@ Department of Computer Science, USTC, China
 # Publications (* denotes equal contribution)
 **Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning**  
 **Tianxin Wei**, Ziwei Wu, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, and Wei Wang\\
-Accepted by the ICDM 2020 (**Full Oral**, Accept rate: 9.8%). 10 Pages\\
+Accepted by the ICDM 2020 (**Full Oral**, Accept rate: 9.8%). 10 Pages.\\
 [[PDF](../files/ICDM_2020_MetaCF.pdf)]
 
 **Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**  
 **Tianxin Wei**\*, Yijun Wang*, Qi Liu, Enhong Chen  
-Accepted by the DASFAA 2021 (Full Research, Accept rate: ~15%). 16 Pages\\
+Accepted by the DASFAA 2021 (Full Research, Accept rate: ~15%). 16 Pages.\\
 [[PDF](../files/NMT.pdf)]
 
 **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**  
 **Tianxin Wei**, Fuli Feng, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He  
-Submitted to KDD 2021. 10 Pages (Previously got Accept / Weak Accept / Weak Reject at WWW 2021))\\
+Submitted to KDD 2021. 10 Pages. (Previously got Accept / Weak Accept / Weak Reject at WWW 2021))\\
 [[PDF](https://arxiv.org/pdf/2010.15363.pdf)]
 
 **Causal Intervention for Leveraging Popularity Bias in Recommendation**\\
