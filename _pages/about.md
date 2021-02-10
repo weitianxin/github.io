@@ -60,9 +60,9 @@ Accepted by the DASFAA 2021 (Full Research, Accept rate: ~15%). 16 Pages\\
 Submitted to KDD 2021. 10 Pages (Previously got Accept / Weak Accept / Weak Reject at WWW 2021))\\
 [[PDF](https://arxiv.org/pdf/2010.15363.pdf)]
 
-**Causal Intervention for Leveraging Popularity Bias in Recommendation**
+**Causal Intervention for Leveraging Popularity Bias in Recommendation**\\
 Yang Zhang, Fuli Feng, Xiangnan He, **Tianxin Wei**, Chonggang Song, Guohui Ling and Yongdong Zhang	
-Submitted to SIGIR 2021. 10 Pages.
+Submitted to SIGIR 2021. 10 Pages.\\
 [PDF]
 
 **AR-Stock: Deep Augmented Relational Stock Prediction**  
