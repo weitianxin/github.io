@@ -78,11 +78,15 @@ Submitted to NAACL 2021 as the first author. 9 Pages\\
 
 # Working Projects
 
+**Conversational Gradient Recommendation**  
+Working Paper 2021
+Advisor: Prof. X
+
 **Adversarial Training Method for Robustness in Natural Language Processing**  
 Working Paper 2020
 Advisor: Prof. Zhangyang Wang
 
-**A Survey of Finance in Information Retrieve**  
+**A Survey of Finance in Information Retrieval**  
 Working Paper 2020
 Advisor: Prof. Xiangnan He & Prof. Yiqun Liu
 
