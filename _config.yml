@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "Hefei, China"
-title                    : "Tianxin Wei"
+title                    : "Tianxin Wei (魏天心)"
 title_separator          : "-"
-name                     : &name "Tianxin Wei"
+name                     : &name "Tianxin Wei (魏天心)"
 description              : &description "A third-year undergraduate at USTC majoring in CS"
 url                      : https://weitianxin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tianxin Wei"
+  name             : "Tianxin Wei (魏天心)"
   avatar           : "photo_wtx.jpg"
   bio              : "An undergraduate at USTC majoring in CS"
   location         : "Hefei, China"
