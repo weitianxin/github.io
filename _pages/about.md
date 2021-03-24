@@ -14,14 +14,10 @@ redirect_from:
 
 Student of AI talent class
 
-**I am actively looking for a Ph.D. position, please feel free to contact me if interested!**
-
-
 # Bio
 
 I am a senior student major in computer science at School of the Gifted Young, USTC and also a member of the AI talent class. My research interests includes data mining, natural language processing, and machine learning. 
 
-Today, all kinds of mainstream supervised learning tasks have achieved great performance. However, after this, problems about data have become the most important bottleneck. To address such issues, I do research in the following three directions. First I leveraged the knowledge of causal inference and empower models with counterfactual thinking and intelligent inference. Second I designed algorithms that eliminate bias in data mining and make models more robust and fair. Third, I integrated heterogeneous information to train the multi-modal models. Last I focused on learning effective information from unlabeled data, e.g. self-supervised learning and unsupervised learning. 
 # Education
 
 Computer Science, SCGY, University of Science and Technology of China <span style="float:right;">July. 2016-Now</span>

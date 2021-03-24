@@ -21,9 +21,6 @@ main:
 
   - title: "CV"
     url: /files/CV_wtx.pdf
-
-  - title: "SOP"
-    url: /files/SOP_wtx.pdf
     
   # - title: "Guide"
   #   url: /markdown/
