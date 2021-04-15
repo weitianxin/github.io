@@ -51,15 +51,15 @@ Accepted by the ICDM 2020 (**Full Oral**, Accept rate: 9.8%). 10 Pages.\\
 Accepted by the DASFAA 2021 (Full Research, Accept rate: ~15%). 16 Pages.\\
 [[PDF](../files/NMT.pdf)]
 
+**Causal Intervention for Leveraging Popularity Bias in Recommendation**\\
+Yang Zhang, Fuli Feng, Xiangnan He, **Tianxin Wei**, Chonggang Song, Guohui Ling and Yongdong Zhang\\
+Accepted by the SIGIR 2021 (Full Research, Accept rate: 21%). 10 Pages.\\
+[PDF]
+
 **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**  
 **Tianxin Wei**, Fuli Feng, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He  
 Submitted to KDD 2021. 10 Pages. (Previously got Accept / Weak Accept / Weak Reject at WWW 2021))\\
 [[PDF](https://arxiv.org/pdf/2010.15363.pdf)]
-
-**Causal Intervention for Leveraging Popularity Bias in Recommendation**\\
-Yang Zhang, Fuli Feng, Xiangnan He, **Tianxin Wei**, Chonggang Song, Guohui Ling and Yongdong Zhang\\
-Submitted to SIGIR 2021. 10 Pages.\\
-[PDF]
 
 **AR-Stock: Deep Augmented Relational Stock Prediction**  
 **Tianxin Wei**, Yuning You, Tianlong Chen  
@@ -69,7 +69,7 @@ Submitted to KDD 2021. 9 Pages.\\
 
 **Adversarial Self-supervised Learning for Speaker Identification**  
 **Tianxin Wei**, Ruirui Li, Oguz Elibol  
-Submitted to NAACL 2021 as the first author. 9 Pages\\
+In Submission. 9 Pages\\
 [PDF]
 
 # Working Projects
