@@ -58,13 +58,13 @@ Accepted by the SIGIR 2021 (Full Research, Accept rate: 21%). 10 Pages.\\
 
 **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**  
 **Tianxin Wei**, Fuli Feng, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He  
-Submitted to KDD 2021. 10 Pages. (Previously got Accept / Weak Accept / Weak Reject at WWW 2021))\\
+In Submission. 10 Pages. (Previously got Accept / Weak Accept / Weak Reject at WWW 2021))\\
 [[PDF](https://arxiv.org/pdf/2010.15363.pdf)]
 
 **AR-Stock: Deep Augmented Relational Stock Prediction**  
 **Tianxin Wei**, Yuning You, Tianlong Chen  
 Preliminary work presented at AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data **(Oral)**.\\
-Submitted to KDD 2021. 9 Pages.\\
+In Submission. 9 Pages.\\
 [[PDF](../files/AAAI21_ARStock.pdf)]
 
 **Adversarial Self-supervised Learning for Speaker Identification**  
