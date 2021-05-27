@@ -38,22 +38,22 @@ Department of Computer Science, USTC, China -->
 # Publications (* denotes equal contribution)
 **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**  
 **Tianxin Wei**, Fuli Feng, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He  
-Accepted by the KDD 2021 (Full Research Oral, Accept rate: 15.4%). 10 Pages. \\
+Accepted by the KDD 2021 (Full Research, Accept rate: 15.4%). 10 Pages. \\
 [[PDF](https://arxiv.org/abs/2010.15363)]
 
 **Causal Intervention for Leveraging Popularity Bias in Recommendation**\\
 Yang Zhang, Fuli Feng, Xiangnan He, **Tianxin Wei**, Chonggang Song, Guohui Ling and Yongdong Zhang\\
-Accepted by the SIGIR 2021 (Full Research Oral, Accept rate: 21%). 10 Pages.\\
+Accepted by the SIGIR 2021 (Full Research, Accept rate: 21%). 10 Pages.\\
 [[PDF](https://arxiv.org/abs/2105.06067)]
 
 **Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**  
 **Tianxin Wei**\*, Yijun Wang*, Qi Liu, Enhong Chen  
-Accepted by the DASFAA 2021 (Full Research Oral, Accept rate: 20%). 18 Pages.\\
+Accepted by the DASFAA 2021 (Full Research, Accept rate: 20%). 18 Pages.\\
 [[PDF](https://www.springerprofessional.de/en/unpaired-multimodal-neural-machine-translation-via-reinforcement/19040758)]
 
 **Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning**  
 **Tianxin Wei**, Ziwei Wu, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, and Wei Wang\\
-Accepted by the ICDM 2020 (Full Research Oral, Accept rate: 9.8%). 10 Pages.\\
+Accepted by the ICDM 2020 (Full Research, Accept rate: 9.8%). 10 Pages.\\
 [[PDF](../files/ICDM_2020_MetaCF.pdf)]
 
 **AR-Stock: Deep Augmented Relational Stock Prediction**  
