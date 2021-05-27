@@ -53,12 +53,12 @@ Accepted by the DASFAA 2021 (Full Research, Accept rate: 20%). 18 Pages.\\
 
 **Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning**  
 **Tianxin Wei**, Ziwei Wu, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, and Wei Wang\\
-Accepted by the ICDM 2020 (**Full Oral**, Accept rate: 9.8%). 10 Pages.\\
+Accepted by the ICDM 2020 (Full Research, Accept rate: 9.8%). 10 Pages.\\
 [[PDF](../files/ICDM_2020_MetaCF.pdf)]
 
 **AR-Stock: Deep Augmented Relational Stock Prediction**  
 **Tianxin Wei**, Yuning You, Tianlong Chen  
-Preliminary work presented at AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data **(Oral)**.\\
+Preliminary work presented at AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data (Oral).\\
 In Submission. 9 Pages.\\
 [[PDF](../files/AAAI21_ARStock.pdf)]
 
