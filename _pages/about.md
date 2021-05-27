@@ -9,20 +9,15 @@ redirect_from:
   - /about.html
 ---
 
-
-[School of the Gifted Young ](https://scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://www.ustc.edu.cn/)
-
-Student of AI talent class
-
 # Bio
 
-I am a senior student major in computer science at School of the Gifted Young, USTC and also a member of the AI talent class. My research interests includes data mining, natural language processing, and machine learning. 
+I am an incoming PhD student at UIUC. My research interests generally lie in data mining. 
 
 # Education
 
-Computer Science, SCGY, University of Science and Technology of China <span style="float:right;">July. 2016-Now</span>
+Computer Science, School of the Gifted Young, University of Science and Technology of China (USTC) <span style="float:right;">July. 2016-Now</span>
 
-# Research Experience
+<!-- # Research Experience
 
 
 Visiting scholar in Prof. **Wei Wang** & **Yizhou Sun**’s group <span style="float:right;">July. 2019 - Sept.2019</span>  
@@ -38,28 +33,28 @@ Department of Data Science, USTC, China
 Also co-advised by Dr. **Fuli Feng** in National University of Singapore and Dr. **Jingfeng Yi** in JD AI Research
 
 Research intern supervised by Prof. **Qi Liu** and Professor **Enhong Chen** 	    <span style="float:right;">June. 2020 – Aug. 2020</span>  
-Department of Computer Science, USTC, China
+Department of Computer Science, USTC, China -->
 
 # Publications (* denotes equal contribution)
-**Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning**  
-**Tianxin Wei**, Ziwei Wu, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, and Wei Wang\\
-Accepted by the ICDM 2020 (**Full Oral**, Accept rate: 9.8%). 10 Pages.\\
-[[PDF](../files/ICDM_2020_MetaCF.pdf)]
-
-**Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**  
-**Tianxin Wei**\*, Yijun Wang*, Qi Liu, Enhong Chen  
-Accepted by the DASFAA 2021 (Full Research, Accept rate: ~15%). 16 Pages.\\
-[[PDF](../files/NMT.pdf)]
+**Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**  
+**Tianxin Wei**, Fuli Feng, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He  
+Accepted by the KDD 2021 (Full Research, Accept rate: 15.4%). 10 Pages. \\
+[[PDF](https://arxiv.org/abs/2010.15363)]
 
 **Causal Intervention for Leveraging Popularity Bias in Recommendation**\\
 Yang Zhang, Fuli Feng, Xiangnan He, **Tianxin Wei**, Chonggang Song, Guohui Ling and Yongdong Zhang\\
 Accepted by the SIGIR 2021 (Full Research, Accept rate: 21%). 10 Pages.\\
-[PDF]
+[[PDF](https://arxiv.org/abs/2105.06067)]
 
-**Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**  
-**Tianxin Wei**, Fuli Feng, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He  
-In Submission. 10 Pages. (Previously got Accept / Weak Accept / Weak Reject at WWW 2021))\\
-[[PDF](https://arxiv.org/pdf/2010.15363.pdf)]
+**Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**  
+**Tianxin Wei**\*, Yijun Wang*, Qi Liu, Enhong Chen  
+Accepted by the DASFAA 2021 (Full Research, Accept rate: 20%). 18 Pages.\\
+[[PDF](https://www.springerprofessional.de/en/unpaired-multimodal-neural-machine-translation-via-reinforcement/19040758)]
+
+**Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning**  
+**Tianxin Wei**, Ziwei Wu, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, and Wei Wang\\
+Accepted by the ICDM 2020 (**Full Oral**, Accept rate: 9.8%). 10 Pages.\\
+[[PDF](../files/ICDM_2020_MetaCF.pdf)]
 
 **AR-Stock: Deep Augmented Relational Stock Prediction**  
 **Tianxin Wei**, Yuning You, Tianlong Chen  
@@ -72,7 +67,7 @@ In Submission. 9 Pages.\\
 In Submission. 9 Pages\\
 [PDF]
 
-# Working Projects
+<!-- # Working Projects
 
 **Conversational Gradient Recommendation**  
 Working Paper 2021
@@ -115,7 +110,7 @@ Skills
 
 **Research Skills:** Frequent user of Latex. 
 
-**Language:** Fluent English, Native Mandarin, rich experience in scientific English writing and presentations. 
+**Language:** Fluent English, Native Mandarin, rich experience in scientific English writing and presentations.  -->
 
 
 
