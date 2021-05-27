@@ -48,17 +48,17 @@ Accepted by the SIGIR 2021 (Full Research, Accept rate: 21%). 10 Pages.\\
 
 **Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**  
 **Tianxin Wei**\*, Yijun Wang*, Qi Liu, Enhong Chen  
-Accepted by the DASFAA 2021 (Full Research, Accept rate: 20%). 18 Pages.\\
+In the DASFAA 2021 (Full Research, Accept rate: 20%). 18 Pages.\\
 [[PDF](https://www.springerprofessional.de/en/unpaired-multimodal-neural-machine-translation-via-reinforcement/19040758)]
 
 **Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning**  
 **Tianxin Wei**, Ziwei Wu, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, and Wei Wang\\
-Accepted by the ICDM 2020 (Full Research, Accept rate: 9.8%). 10 Pages.\\
+In the ICDM 2020 (Full Research, Accept rate: 9.8%). 10 Pages.\\
 [[PDF](../files/ICDM_2020_MetaCF.pdf)]
 
 **AR-Stock: Deep Augmented Relational Stock Prediction**  
 **Tianxin Wei**, Yuning You, Tianlong Chen  
-Preliminary work presented at AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data (Oral).\\
+Preliminary work in the AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data (Oral).\\
 In Submission. 9 Pages.\\
 [[PDF](../files/AAAI21_ARStock.pdf)]
 
