@@ -36,7 +36,6 @@ Research intern supervised by Prof. **Qi Liu** and Professor **Enhong Chen** 	  
 Department of Computer Science, USTC, China -->
 
 # Publications (* denotes equal contribution)
-
 ## Conferences
 **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**  
 **Tianxin Wei**, Fuli Feng, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He  
@@ -68,7 +67,6 @@ In Submission. 9 Pages.\\
 **Tianxin Wei**, Ruirui Li, Oguz Elibol  
 In Submission. 9 Pages\\
 [PDF]
-
 ## Journals
 
 <!-- # Working Projects
