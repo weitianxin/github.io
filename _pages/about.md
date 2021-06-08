@@ -59,8 +59,7 @@ In the ICDM 2020 (Full Research, Accept rate: 9.8%). 10 Pages.\\
 
 **AR-Stock: Deep Augmented Relational Stock Prediction**  
 **Tianxin Wei**, Yuning You, Tianlong Chen  
-Preliminary work in the AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data (Oral).\\
-In Submission. 9 Pages.\\
+In the AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data (Oral). 9 Pages.\\
 [[PDF](../files/AAAI21_ARStock.pdf)]
 
 **Adversarial Self-supervised Learning for Speaker Identification**  
