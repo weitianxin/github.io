@@ -15,7 +15,7 @@ I am an incoming PhD student at UIUC. My research interests generally lie in dat
 
 # Education
 
-Computer Science, School of the Gifted Young, University of Science and Technology of China (USTC) <span style="float:right;">July. 2016-Now</span>
+Computer Science, School of the Gifted Young, University of Science and Technology of China (USTC) <span style="float:right;">July. 2016-2021</span>
 
 <!-- # Research Experience
 
@@ -48,7 +48,7 @@ Accepted by the SIGIR 2021 (Full Research, Accept rate: 21%). 10 Pages.\\
 [[PDF](https://arxiv.org/abs/2105.06067)]
 
 **Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**  
-**Tianxin Wei**\*, Yijun Wang*, Qi Liu, Enhong Chen  
+Yijun Wang*, **Tianxin Wei\***, Qi Liu, Enhong Chen  
 In the DASFAA 2021 (Full Research, Accept rate: 20%). 18 Pages.\\
 [[PDF](https://www.springerprofessional.de/en/unpaired-multimodal-neural-machine-translation-via-reinforcement/19040758)]
 
