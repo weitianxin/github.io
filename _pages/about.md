@@ -44,7 +44,7 @@ Accepted by the KDD 2021 (Full Research, Accept rate: 15.4%). 10 Pages. \\
 
 **Causal Intervention for Leveraging Popularity Bias in Recommendation**\\
 Yang Zhang, Fuli Feng, Xiangnan He, **Tianxin Wei**, Chonggang Song, Guohui Ling and Yongdong Zhang\\
-Accepted by the SIGIR 2021 (<font color=red>**Best Paper Hornorable Mention, 1/720**</font>, Full Research, Accept rate: 21%). 10 Pages.\\
+Accepted by the SIGIR 2021 (**<font color=red>Best Paper Hornorable Mention, 1/720</font>**, Full Research, Accept rate: 21%). 10 Pages.\\
 [[PDF](https://arxiv.org/abs/2105.06067)]
 
 **Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**  
