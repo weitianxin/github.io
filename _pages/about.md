@@ -17,7 +17,7 @@ I am an incoming PhD student at UIUC. My research interests generally lie in dat
 
 Computer Science, School of the Gifted Young, University of Science and Technology of China (USTC) <span style="float:right;">July. 2016-2021</span>
 
-<!-- # Research Experience
+# Research Experience
 
 
 Visiting scholar in Prof. **Wei Wang** & **Yizhou Sun**’s group <span style="float:right;">July. 2019 - Sept.2019</span>  
@@ -30,10 +30,8 @@ Remote intern advised by Dr. **Ruirui Li** and Dr. **Oguz Elibol** in Amazon Ale
 
 Research intern advised by Prof. **Xiangnan He**             <span style="float:right;">March. 2019 – Present</span>   
 Department of Data Science, USTC, China  
-Also co-advised by Dr. **Fuli Feng** in National University of Singapore and Dr. **Jingfeng Yi** in JD AI Research
+Also co-advised by Dr. **Fuli Feng** in National University of Singapore
 
-Research intern supervised by Prof. **Qi Liu** and Professor **Enhong Chen** 	    <span style="float:right;">June. 2020 – Aug. 2020</span>  
-Department of Computer Science, USTC, China -->
 
 # Publications (* denotes equal contribution)
 ## Conferences
@@ -44,7 +42,7 @@ Accepted by the KDD 2021 (Full Research, AR: 15.4%). 10 Pages. \\
 
 **Causal Intervention for Leveraging Popularity Bias in Recommendation**\\
 Yang Zhang, Fuli Feng, Xiangnan He, **Tianxin Wei**, Chonggang Song, Guohui Ling and Yongdong Zhang\\
-Accepted by the SIGIR 2021 (**<font color=red>Best Paper Hornorable Mention</font>**, 1 out of All, Full Research, AR: 21%). 10 Pages.\\
+In the SIGIR 2021 (**<font color=red>Best Paper Hornorable Mention</font>**, 1 out of All, Full Research, AR: 21%). 10 Pages.\\
 [[PDF](https://arxiv.org/abs/2105.06067)]
 
 **Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**  
