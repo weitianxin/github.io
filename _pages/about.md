@@ -37,7 +37,7 @@ Also co-advised by Dr. **Fuli Feng** in National University of Singapore
 ## Conferences
 **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**  
 **Tianxin Wei**, Fuli Feng, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He  
-Accepted by the KDD 2021 (Full Research, AR: 15.4%). 10 Pages. \\
+In the KDD 2021 (Full Research, AR: 15.4%). 10 Pages. \\
 [[PDF](https://arxiv.org/abs/2010.15363)]
 
 **Causal Intervention for Leveraging Popularity Bias in Recommendation**\\
@@ -75,10 +75,6 @@ Advisor: Prof. X
 **Adversarial Training Method for Robustness in Natural Language Processing**  
 Working Paper 2020
 Advisor: Prof. Zhangyang Wang
-
-**A Survey of Finance in Information Retrieval**  
-Working Paper 2020
-Advisor: Prof. Xiangnan He & Prof. Yiqun Liu
 
 **Automated Meta-path Discovery on Large-scale Knowledge Graph via Meta-learning**  
 Working Paper 2020
