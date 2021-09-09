@@ -17,7 +17,7 @@ I am an incoming PhD student at UIUC. My research interests generally lie in dat
 
 Computer Science, School of the Gifted Young, University of Science and Technology of China (USTC) <span style="float:right;">July. 2016-2021</span>
 
-# Research Experience
+<!-- # Research Experience
 
 
 Visiting scholar in Prof. **Wei Wang** & **Yizhou Sun**’s group <span style="float:right;">July. 2019 - Sept.2019</span>  
@@ -30,7 +30,7 @@ Remote intern advised by Dr. **Ruirui Li** and Dr. **Oguz Elibol** in Amazon Ale
 
 Research intern advised by Prof. **Xiangnan He**             <span style="float:right;">March. 2019 – Present</span>   
 Department of Data Science, USTC, China  
-Also co-advised by Dr. **Fuli Feng** in National University of Singapore
+Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
 
 
 # Publications (* denotes equal contribution)
@@ -71,6 +71,8 @@ In Submission. 9 Pages\\
 Program Committee: CIKM (2021)
 External Reviewer: WWW (2021), SIGIR (2020)
 Journal Reviewer: TOIS, TKDE
+
+
 <!-- # Working Projects
 
 **Conversational Gradient Recommendation**  
