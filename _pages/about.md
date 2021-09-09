@@ -59,11 +59,11 @@ In the ICDM 2020 (Full Research, AR: 9.8%). 10 Pages.\\
 **Tianxin Wei**, Yuning You, Tianlong Chen  
 In the AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data (Oral). 9 Pages.\\
 [[PDF](../files/AAAI21_ARStock.pdf)]
-
+<!-- 
 **Adversarial Self-supervised Learning for Speaker Identification**  
 **Tianxin Wei**, Ruirui Li, Oguz Elibol  
 In Submission. 9 Pages\\
-[PDF]
+[PDF] -->
 ## Journals
 
 
