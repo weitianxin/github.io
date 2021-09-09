@@ -72,8 +72,8 @@ Program Committee: CIKM (2021)
 External Reviewer: WWW (2021), SIGIR (2020)
 Journal Reviewer: TOIS, TKDE
 
-
-<!-- # Working Projects
+<!-- 
+# Working Projects
 
 **Conversational Gradient Recommendation**  
 Working Paper 2021
@@ -87,14 +87,6 @@ Advisor: Prof. Zhangyang Wang
 Working Paper 2020
 Advisor: Prof. Yizhou Sun & Prof. Wei Wang
 
-# Services & Awards & Patents
-Invited Journal Reviewer: TOIS, TKDE
-
-Artificial Intelligence Honor Award (Top 5%)
-
-Outstanding Students Scholarship for four consecutive years at USTC, 2016 - 2019 (Top 10%)
-
-Outstanding Freshmen Scholarship at USTC, 2016
 
 Zero parallel corpus Multimodal neural machine translation method. 		         <span style="float:right;">Number: CN110245364A</span>  
 Enhong Chen, Qi Liu, Yijun Wang, **Tianxin Wei**
@@ -103,16 +95,9 @@ A meta-learning recommendation method for cold-start users.                     
 Xiangnan He, **Tianxin Wei**, Ziwei Wu, Fuli Feng
 
 Mitigating popularity bias in recommendation system via causal inference                       <span style="float:right;">Being Processed</span>  
-Xiangnan He, **Tianxin Wei**, Fuli Feng, Jiawei Chen, Jinfeng Yi
+Xiangnan He, **Tianxin Wei**, Fuli Feng, Jiawei Chen, Jinfeng Yi -->
 
 
-Skills
-======
-**Engineering skills:** Proficient in C / C++ / Python / Java / MATLAB. 
-
-**Research Skills:** Frequent user of Latex. 
-
-**Language:** Fluent English, Native Mandarin, rich experience in scientific English writing and presentations.  -->
 
 
 
@@ -123,9 +108,4 @@ Skills
 
 
 
-<!-- **Unpaired Multimodal Neural Machine Translation via Reinforcement Learning**    
-
-Submitted to ACL, still under review
-
-![1553858976747](..\images\pub1.png) -->
 
