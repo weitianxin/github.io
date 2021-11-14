@@ -33,7 +33,7 @@ Department of Data Science, USTC, China
 Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
 
 
-# Publications 
+# Publications
 ## Conferences (*: equal contribution, ^: corresponding author)
 **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**  
 **Tianxin Wei**, Fuli Feng^, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He^
