@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-My CV can be found [here]().
+My CV can be found [here](../files/CV_wtx.pdf).
 <!-- ../files/CV_wtx.pdf -->
