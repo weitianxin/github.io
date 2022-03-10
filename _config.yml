@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tianxin Wei (魏天心)"
-  avatar           : "files/wtx.jpg"
+  avatar           : files/wtx.jpg
   bio              : "First-year PhD student at UIUC"
   location         : "Champaign, USA"
   employer         :
