@@ -38,14 +38,14 @@ Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
 
 ## Preprints
 Neural Collaborative Filtering Bandits via Meta Learning\\
-Yikun Ban, Yunzhe Qi, **Tianxin Wei**, and Jingrui He\\
+*Yikun Ban, Yunzhe Qi, **Tianxin Wei**, and Jingrui He*\\
 [[PDF](https://arxiv.org/abs/2201.13395)]
 
 ## Publications
 ### Conferences (*: equal contribution, ^: corresponding author)
 Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System\\
-**Tianxin Wei**, Fuli Feng^, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He^\\
-In the KDD 2021 (Full Research, AR: 15.4%). 10 Pages. \\
+***Tianxin Wei**, Fuli Feng^, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He^*\\
+*In the KDD 2021 (Full Research, AR: 15.4%). 10 Pages.* \\
 [[PDF](https://arxiv.org/abs/2010.15363)][[Code](https://github.com/weitianxin/MACR)]
 
 Causal Intervention for Leveraging Popularity Bias in Recommendation\\
@@ -54,18 +54,18 @@ Causal Intervention for Leveraging Popularity Bias in Recommendation\\
 [[PDF](https://arxiv.org/abs/2105.06067)][[Code](https://github.com/zyang1580/PDA)]
 
 Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning  
-**Tianxin Wei**, Ziwei Wu, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, and Wei Wang\\
-In the ICDM 2020 (Full Research, AR: 9.8%). 10 Pages.\\
+***Tianxin Wei**, Ziwei Wu, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, and Wei Wang*\\
+*In the ICDM 2020 (Full Research, AR: 9.8%). 10 Pages.*\\
 [[PDF](../files/ICDM_2020_MetaCF.pdf)][[Code](https://drive.google.com/file/d/1_UaPcCQLaEEWUCsMTRIgsvtWqorqsnUm/view?usp=sharing)]
 
 Unpaired Multimodal Neural Machine Translation via Reinforcement Learning  
-Yijun Wang*, **Tianxin Wei\***, Qi Liu, Enhong Chen  
-In the DASFAA 2021 (Full Research, AR: 20%). 18 Pages.\\
+*Yijun Wang*, **Tianxin Wei\***, Qi Liu, Enhong Chen * 
+*In the DASFAA 2021 (Full Research, AR: 20%). 18 Pages.*\\
 [[PDF](https://www.springerprofessional.de/en/unpaired-multimodal-neural-machine-translation-via-reinforcement/19040758)]
 
 AR-Stock: Deep Augmented Relational Stock Prediction  
-**Tianxin Wei**, Yuning You, Tianlong Chen  
-In the AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data (Oral). 9 Pages.\\
+***Tianxin Wei**, Yuning You, Tianlong Chen  *
+*In the AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data (Oral). 9 Pages.*\\
 [[PDF](../files/AAAI21_ARStock.pdf)]
 
 ### Journals
