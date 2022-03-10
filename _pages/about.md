@@ -43,8 +43,9 @@ Yikun Ban, Yunzhe Qi, **Tianxin Wei**, and Jingrui He\\
 
 ## Publications
 ### Conferences (*: equal contribution, ^: corresponding author)
+
 Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System\\
-<font size=2>**Tianxin Wei**, Fuli Feng^, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He^</font>\\
+**Tianxin Wei**, Fuli Feng^, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He^\\
 *In the KDD 2021 (Full Research, AR: 15.4%). 10 Pages.* \\
 [[PDF](https://arxiv.org/abs/2010.15363)][[Code](https://github.com/weitianxin/MACR)]
 
@@ -59,7 +60,7 @@ Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning
 [[PDF](../files/ICDM_2020_MetaCF.pdf)][[Code](https://drive.google.com/file/d/1_UaPcCQLaEEWUCsMTRIgsvtWqorqsnUm/view?usp=sharing)]
 
 Unpaired Multimodal Neural Machine Translation via Reinforcement Learning  
-Yijun Wang*, **Tianxin Wei***, Qi Liu, Enhong Chen\\
+Yijun Wang*, **Tianxin Wei**\*, Qi Liu, Enhong Chen\\
 *In the DASFAA 2021 (Full Research, AR: 20%). 18 Pages.*\\
 [[PDF](https://www.springerprofessional.de/en/unpaired-multimodal-neural-machine-translation-via-reinforcement/19040758)]
 
