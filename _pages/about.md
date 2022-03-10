@@ -60,7 +60,7 @@ Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning
 [[PDF](../files/ICDM_2020_MetaCF.pdf)][[Code](https://drive.google.com/file/d/1_UaPcCQLaEEWUCsMTRIgsvtWqorqsnUm/view?usp=sharing)]
 
 Unpaired Multimodal Neural Machine Translation via Reinforcement Learning  
-Yijun Wang*, **Tianxin Wei**\*, Qi Liu, Enhong Chen\\
+Yijun Wang\*, **Tianxin Wei\***, Qi Liu, Enhong Chen\\
 *In the DASFAA 2021 (Full Research, AR: 20%). 18 Pages.*\\
 [[PDF](https://www.springerprofessional.de/en/unpaired-multimodal-neural-machine-translation-via-reinforcement/19040758)]
 
