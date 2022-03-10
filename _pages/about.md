@@ -9,12 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-# Bio
+## Bio
 
-I am an incoming PhD student at UIUC. My research interests generally lie in data mining. 
+I am currently a first-year PhD student at UIUC. Before that, I earned my B.S in Computer Science from School of the Gifted Young, University of Science and Technology of China in June. 2020. My research topics mainly focus on trustworthy machine learning methods development and generalizable graph machine learning models, also with applications in generic NLP and recommender system problems. 
 
-# Education
+<!-- Techniques that I'm interested in (but not limited to) are contrastive learning, graph neural network and causal inference. -->
 
+## Education
 Computer Science, School of the Gifted Young, University of Science and Technology of China (USTC) <span style="float:right;">July. 2016-2021</span>
 
 <!-- # Research Experience
@@ -33,8 +34,8 @@ Department of Data Science, USTC, China
 Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
 
 
-# Publications
-## Conferences (*: equal contribution, ^: corresponding author)
+## Publications
+### Conferences (*: equal contribution, ^: corresponding author)
 **Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System**  
 **Tianxin Wei**, Fuli Feng^, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He^\\
 In the KDD 2021 (Full Research, AR: 15.4%). 10 Pages. \\
@@ -64,10 +65,10 @@ In the AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data (Oral). 
 **Tianxin Wei**, Ruirui Li, Oguz Elibol  
 In Submission. 9 Pages\\
 [PDF] -->
-## Journals
+### Journals
 
 
-# Services
+## Services
 * Program Committee: CIKM (2021)
 
 * External Reviewer: WWW (2021), SIGIR (2020)
