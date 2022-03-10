@@ -11,7 +11,9 @@ redirect_from:
 
 ## Bio
 
-I am currently a first-year PhD student at UIUC. Before that, I earned my B.S in Computer Science from School of the Gifted Young, University of Science and Technology of China in June. 2020. My research topics mainly focus on trustworthy machine learning methods development and generalizable graph machine learning models, also with applications in generic NLP and recommender system problems. 
+I am currently a first-year PhD student at UIUC. Before that, I earned my B.S in Computer Science from School of the Gifted Young, University of Science and Technology of China in June. 2020. 
+
+My research topics mainly focus on trustworthy machine learning methods development and generalizable graph machine learning models, also with applications in generic NLP and recommender system problems. 
 
 <!-- Techniques that I'm interested in (but not limited to) are contrastive learning, graph neural network and causal inference. -->
 
@@ -33,6 +35,11 @@ Research intern advised by Prof. **Xiangnan He**             <span style="float:
 Department of Data Science, USTC, China  
 Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
 
+
+## Preprints
+**Neural Collaborative Filtering Bandits via Meta Learning**
+Yikun Ban, Yunzhe Qi, **Tianxin Wei**, and Jingrui He
+[[PDF](https://arxiv.org/abs/2201.13395)]
 
 ## Publications
 ### Conferences (*: equal contribution, ^: corresponding author)
