@@ -49,8 +49,8 @@ In the KDD 2021 (Full Research, AR: 15.4%). 10 Pages. \\
 [[PDF](https://arxiv.org/abs/2010.15363)][[Code](https://github.com/weitianxin/MACR)]
 
 Causal Intervention for Leveraging Popularity Bias in Recommendation\\
-Yang Zhang, Fuli Feng^, Xiangnan He^, **Tianxin Wei**, Chonggang Song, Guohui Ling and Yongdong Zhang\\
-In the SIGIR 2021 (**<font color='#c64444'>Best Paper Hornorable Mention</font>**, 1 out of All, Full Research, AR: 21%). 10 Pages.\\
+*Yang Zhang, Fuli Feng^, Xiangnan He^, **Tianxin Wei**, Chonggang Song, Guohui Ling and Yongdong Zhang*\\
+*In the SIGIR 2021 (**<font color='#c64444'>Best Paper Hornorable Mention</font>**, 1 out of All, Full Research, AR: 21%). 10 Pages.*\\
 [[PDF](https://arxiv.org/abs/2105.06067)][[Code](https://github.com/zyang1580/PDA)]
 
 Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning  
