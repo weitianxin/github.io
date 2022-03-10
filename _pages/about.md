@@ -37,8 +37,8 @@ Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
 
 
 ### Preprints
-Neural Collaborative Filtering Bandits via Meta Learning
-Yikun Ban, Yunzhe Qi, **Tianxin Wei**, and Jingrui He
+Neural Collaborative Filtering Bandits via Meta Learning\\
+Yikun Ban, Yunzhe Qi, **Tianxin Wei**, and Jingrui He\\
 [[PDF](https://arxiv.org/abs/2201.13395)]
 
 ### Publications
