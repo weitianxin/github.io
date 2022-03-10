@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Hefei, China"
+locale                   : "Champaign, USA"
 title                    : "Tianxin Wei (魏天心)"
 title_separator          : "-"
 name                     : &name "Tianxin Wei (魏天心)"
-description              : &description "An undergraduate at USTC majoring in CS"
+description              : &description "First-year PhD student at UIUC"
 url                      : https://weitianxin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Tianxin Wei (魏天心)"
-  avatar           : "xx.jpg"
-  bio              : "An undergraduate at USTC majoring in CS"
-  location         : "Hefei, China"
+  avatar           : "wtx.jpg"
+  bio              : "First-year PhD student at UIUC"
+  location         : "Champaign, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=_LU2-kMAAAAJ"
-  email            : "rouseau@mail.ustc.edu.cn"
+  email            : "twei10@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
