@@ -67,7 +67,7 @@ Yijun Wang\*, **Tianxin Wei\***, Qi Liu, Enhong Chen\\
 AR-Stock: Deep Augmented Relational Stock Prediction  
 **Tianxin Wei**, Yuning You, Tianlong Chen\\
 *In the AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data (Oral). 9 Pages.*\\
-[[PDF](../files/AAAI21_ARStock.pdf)]
+[[PDF](../files/AAAI21_ARStock.pdf)][[Code](https://github.com/weitianxin/FiAI_AR-Stock)]
 
 ### Journals
 
