@@ -73,9 +73,9 @@ AR-Stock: Deep Augmented Relational Stock Prediction
 
 
 ## Services
-* Program Committee: CIKM (2021)
+* Program Committee: CIKM (2021-2022)
 
-* External Reviewer: WWW (2021), SIGIR (2020)
+* Reviewer: ICML 2022, NeurIPS 2022
 
 * Journal Reviewer: TOIS, TKDE
 
