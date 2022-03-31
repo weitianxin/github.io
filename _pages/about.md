@@ -13,7 +13,7 @@ redirect_from:
 
 I am currently a first-year PhD student at UIUC. Before that, I earned my B.S in Computer Science from School of the Gifted Young, University of Science and Technology of China. 
 
-My research topics mainly focus on **trustworthy ML** methods development and generalizable **graph ML** models, also with applications in generic NLP and recommender systems. I'm open to collaboration and discussion, please feel free to contact me if you're intersted.
+My research topics mainly focus on **trustworthy ML** methods development and generalizable **graph ML** models, also with applications in generic NLP and recommender system problems. I'm open to collaboration and discussion, please feel free to contact me if you're intersted.
 
 <!-- Techniques that I'm interested in (but not limited to) are contrastive learning, graph neural network and causal inference. -->
 
