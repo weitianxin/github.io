@@ -44,6 +44,11 @@ Yikun Ban, Yunzhe Qi, **Tianxin Wei**, and Jingrui He\\
 ## Publications
 [*equal contribution]
 ### Conferences
+Comprehensive Fair Meta-learned Recommender System\\
+**Tianxin Wei**, Jingrui He\\
+*In the KDD 2022 (Full Research, AR: 15.0%). 10 Pages.* \\
+[[PDF](Soon)][[Code](Soon)]
+
 Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System\\
 **Tianxin Wei**, Fuli Feng, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He\\
 *In the KDD 2021 (Full Research, AR: 15.4%). 10 Pages.* \\
