@@ -11,7 +11,7 @@ redirect_from:
 
 ## Bio
 
-I am currently a first-year PhD student at UIUC. Before that, I earned my B.S in Computer Science from School of the Gifted Young, University of Science and Technology of China. 
+I am currently a second-year PhD student at UIUC. Before that, I earned my B.S in Computer Science from School of the Gifted Young, University of Science and Technology of China. 
 
 My research topics mainly focus on **trustworthy ML** methods development and generalizable **graph ML** models, also with applications in generic NLP and recommender system problems. I'm open to collaboration and discussion, please feel free to contact me if you're intersted.
 
@@ -44,6 +44,11 @@ Yikun Ban, Yunzhe Qi, **Tianxin Wei**, and Jingrui He\\
 ## Publications
 [*equal contribution]
 ### Conferences
+Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative\\
+**Tianxin Wei\***, Yuning You\*, Tianlong Chen, Yang Shen, Jingrui He, Zhangyang Wang\\
+*In the NeurIPS 2022 (Full Research, AR: 25.6%). 10 Pages.* \\
+[[PDF](TBD)][[Code](TBD)]
+
 Comprehensive Fair Meta-learned Recommender System\\
 **Tianxin Wei**, Jingrui He\\
 *In the KDD 2022 (Full Research, AR: 15.0%). 10 Pages.* \\
