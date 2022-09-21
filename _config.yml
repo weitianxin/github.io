@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tianxin Wei (魏天心)"
   avatar           : "wtx.jpg"
-  bio              : "First-year PhD student at UIUC"
+  bio              : "Second-year PhD student at UIUC"
   location         : "Champaign, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -115,7 +115,7 @@ author:
   youtube          :
   wikipedia        :
 
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_i9gM6kRRACrAp5AJRRfyrJKvQdC4MFYw67CG8-gzVg&cl=ffffff&w=a"></script>
 # Reading Files
 include:
   - .htaccess
