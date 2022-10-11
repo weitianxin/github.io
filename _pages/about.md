@@ -47,7 +47,7 @@ Yikun Ban, Yunzhe Qi, **Tianxin Wei**, and Jingrui He\\
 Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative\\
 **Tianxin Wei\***, Yuning You\*, Tianlong Chen, Yang Shen, Jingrui He, Zhangyang Wang\\
 *In the NeurIPS 2022 (Full Research, AR: 25.6%). 10 Pages.* \\
-[[PDF](../files/neurips22_hypergcl.pdf)][[Code](https://github.com/weitianxin/HyperGCL)][[appendix](../files/neurips22_hypergcl_appendix.pdf)]
+[[PDF](https://arxiv.org/abs/2210.03801)][[Code](https://github.com/weitianxin/HyperGCL)][[appendix](../files/neurips22_hypergcl_appendix.pdf)]
 
 Comprehensive Fair Meta-learned Recommender System\\
 **Tianxin Wei**, Jingrui He\\
