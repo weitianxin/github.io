@@ -84,7 +84,7 @@ AR-Stock: Deep Augmented Relational Stock Prediction
 
 
 ## Services
-* Program Committee/Reviewer: CIKM (2021-2022), ICML 2022, NeurIPS 2022, LoG 2022, WSDM 2023, AAAI 2023, ICLR 2023
+* Program Committee/Reviewer: CIKM (2021-2022), ICML 2022, NeurIPS 2022, LoG 2022, WSDM 2023, AAAI 2023, ICLR 2023, KDD 2023
 
 * Journal Reviewer: TOIS, TKDE
 
