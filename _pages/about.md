@@ -15,11 +15,23 @@ I am currently a second-year PhD student at UIUC. Before that, I earned my B.S i
 
 My research topics mainly focus on **trustworthy ML** methods development and generalizable **graph ML** models, also with applications in generic recommender system problems. 
 
+**Looking for research internship positions for summer 2023!**
+
 **Feel free to drop me an e-mail, if you are interested in my research and want to discuss relevant research topic or potential collaborations!**
 <!-- Techniques that I'm interested in (but not limited to) are contrastive learning, graph neural network and causal inference. -->
 
 ## Education
 Computer Science, School of the Gifted Young, University of Science and Technology of China (USTC) <span style="float:right;">July. 2016-2021</span>
+
+## News
+* [12/2022] Summarize a curated list of papers on the distribution shift in machine learning. Check out at [awesome-distribution-shift](https://github.com/weitianxin/awesome-distribution-shift)!
+* [10/2022] Awarded the NeurIPS’22 Scholar Award. Thanks to NeurIPS!
+* [10/2022] [HyperGCL](https://arxiv.org/abs/2210.03801) (contrastive learning on hypergraphs) accepted @ NeurIPS’22.
+* [05/2022] [CLOVER](https://arxiv.org/abs/2206.04789) (comprehensive fairness of cold-start recsys) accepted @ KDD’22.
+* [07/2021] Awarded the SIGIR 2021 Best Paper Honorable Mention. Thanks to SIGIR!
+* [05/2021] [MACR](https://arxiv.org/abs/2010.15363) (popularity debias with causal counterfactual reasoning) accepted @ KDD’21.
+* [04/2021] [PDA](https://arxiv.org/abs/2105.06067) (popularity adjusted deconfounded training with causal intervention) accepted @ SIGIR’21.
+* [08/2020] [MetaCF](../files/ICDM_2020_MetaCF.pdf) (graph meta-learning for cold-start recsys) accepted @ ICDM’20. Internship work at [UCLA](https://web.cs.ucla.edu/~yzsun/).
 
 <!-- # Research Experience
 
