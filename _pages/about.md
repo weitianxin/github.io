@@ -24,7 +24,7 @@ My research topics mainly focus on **trustworthy ML** methods development and ge
 Computer Science, School of the Gifted Young, University of Science and Technology of China (USTC) <span style="float:right;">July. 2016-2021</span>
 
 ## News
-* [12/2022] Summarize a curated list of papers on the distribution shift in machine learning. Check out at [awesome-distribution-shift](https://github.com/weitianxin/awesome-distribution-shift)!
+* [12/2022] Collect a curated list of papers on the distribution shift in machine learning. Check out at [awesome-distribution-shift](https://github.com/weitianxin/awesome-distribution-shift)!
 * [10/2022] Awarded the NeurIPS’22 Scholar Award. Thanks to NeurIPS!
 * [10/2022] [HyperGCL](https://arxiv.org/abs/2210.03801) (contrastive learning on hypergraphs) accepted @ NeurIPS’22.
 * [05/2022] [CLOVER](https://arxiv.org/abs/2206.04789) (comprehensive fairness of cold-start recsys) accepted @ KDD’22.
