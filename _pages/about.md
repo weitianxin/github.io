@@ -23,7 +23,7 @@ I am currently a second-year PhD student at UIUC. Before that, I earned my B.S i
 Computer Science, School of the Gifted Young, University of Science and Technology of China (USTC) <span style="float:right;">July. 2016-2021</span>
 
 ## News
-* [03/2022] Will join Amazon Search team as an applied scientist intern this summer. See you in Palo Alto!
+* [03/2023] Will join Amazon Search team as an applied scientist intern this summer. See you in Palo Alto!
 * [12/2022] Collect a curated list of papers on the distribution shift in machine learning. Check out at [awesome-distribution-shift](https://github.com/weitianxin/awesome-distribution-shift)!
 * [10/2022] Awarded the NeurIPS’22 Scholar Award. Thanks to NeurIPS!
 * [10/2022] [HyperGCL](https://arxiv.org/abs/2210.03801) (contrastive learning on hypergraphs) accepted @ NeurIPS’22.
