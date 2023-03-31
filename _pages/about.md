@@ -13,7 +13,7 @@ redirect_from:
 
 I am currently a second-year PhD student at UIUC. Before that, I earned my B.S in Computer Science from School of the Gifted Young, University of Science and Technology of China. 
 
-My research mainly focuses on trustworthy machine learning, graph representation learning, and data-centric AI. I am particularly interested in improving the efficiency, robustness and fairness of machine learning models across various modalities and disciplines, with the ultimate goal of making ML models more accessible and inclusive.
+**Research:** My research mainly focuses on trustworthy machine learning, graph representation learning, and data-centric AI. I am particularly interested in improving the efficiency, robustness and fairness of machine learning models across various modalities and disciplines, with the ultimate goal of making ML models more accessible and inclusive.
 
 **Feel free to drop me an e-mail, if you are interested in my research and want to discuss relevant research topic or potential collaborations!**
 
