@@ -59,7 +59,7 @@ Yikun Ban, Yunzhe Qi, **Tianxin Wei**, and Jingrui He\\
 [*equal contribution]
 ### Conferences
 NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning\\
-**Tianxin Wei\**, Zeming Guo, Yifan Chen, Jingrui He\\
+**Tianxin Wei\***, Zeming Guo\*, Yifan Chen\*, Jingrui He\\
 *In the ICML 2023 (Full Research, AR: 27.9%). 8 Pages.* \\
 [[PDF](TBD)][[Code](TBD)]
 
