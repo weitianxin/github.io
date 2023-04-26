@@ -23,6 +23,7 @@ I am currently a second-year PhD student at UIUC. Before that, I earned my B.S i
 Computer Science, School of the Gifted Young, University of Science and Technology of China (USTC) <span style="float:right;">July. 2016-2021</span>
 
 ## News
+* [04/2023] [MLP Fusion](TBD) (NTK-approximating MLP Fusion for efficient learning) accepted @ ICML’23.
 * [03/2023] Will join Amazon Search team as an applied scientist intern this summer. See you in Palo Alto!
 * [12/2022] Collect a curated list of papers on the distribution shift in machine learning. Check out at [awesome-distribution-shift](https://github.com/weitianxin/awesome-distribution-shift)!
 * [10/2022] Awarded the NeurIPS’22 Scholar Award. Thanks to NeurIPS!
@@ -57,6 +58,11 @@ Yikun Ban, Yunzhe Qi, **Tianxin Wei**, and Jingrui He\\
 ## Publications
 [*equal contribution]
 ### Conferences
+NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning\\
+**Tianxin Wei\**, Zeming Guo, Yifan Chen, Jingrui He\\
+*In the ICML 2023 (Full Research, AR: 27.9%). 8 Pages.* \\
+[[PDF](TBD)][[Code](TBD)]
+
 Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative\\
 **Tianxin Wei\***, Yuning You\*, Tianlong Chen, Yang Shen, Jingrui He, Zhangyang Wang\\
 *In the NeurIPS 2022 (Full Research, AR: 25.6%). 10 Pages.* \\
