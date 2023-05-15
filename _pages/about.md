@@ -105,8 +105,9 @@ AR-Stock: Deep Augmented Relational Stock Prediction
 
 * SIGIR 2021 Best Paper Honorable Mention
 * NeurIPS 2022 Scholar Award
-* Program Committee/Reviewer: CIKM (2021-2022), ICML (2022-2023), NeurIPS (2022-2023), LoG 2022, WSDM 2023, AAAI 2023, ICLR 2023, KDD 2023, ACL 2023
-* Journal Reviewer: TOIS, TKDE, DMKD, Machine Learning
+* ICML 2023 Grant Award
+* Program Committee/Reviewer: CIKM (2021-2023), ICML (2022-2023), NeurIPS (2022-2023), ICLR 2023, WSDM 2023, AAAI 2023, KDD 2023, ACL 2023, LOG 2022
+* Journal Reviewer: TOIS, TKDE, DMKD, Machine Learning, TMLR
 
 <!-- 
 # Working Projects
