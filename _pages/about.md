@@ -23,6 +23,7 @@ I am currently a second-year PhD student at UIUC. Before that, I earned my B.S i
 Computer Science, School of the Gifted Young, University of Science and Technology of China (USTC) <span style="float:right;">July. 2016-2021</span>
 
 ## News
+* [05/2023] Received the ICML’23 Grant Award. Thanks to ICML!
 * [04/2023] [MLP Fusion](TBD) (NTK-approximating MLP Fusion for efficient learning) accepted @ ICML’23.
 * [03/2023] Will join Amazon Search team as an applied scientist intern this summer. See you in Palo Alto!
 * [12/2022] Collect a curated list of papers on the distribution shift in machine learning. Check out at [awesome-distribution-shift](https://github.com/weitianxin/awesome-distribution-shift)!
