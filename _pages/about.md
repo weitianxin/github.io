@@ -101,7 +101,7 @@ AR-Stock: Deep Augmented Relational Stock Prediction
 
 ### Journals
 
-Graph Contrastive Learning: An Odyssey towards Generalizable, Scalable and Principled Representation Learning on Graphs
+Graph Contrastive Learning: An Odyssey towards Generalizable, Scalable and Principled Representation Learning on Graphs\\
 Yan Han, Yuning You, Wenqing Zheng, Scott Hoang, **Tianxin Wei**, Majdi Hassan, Tianlong Chen, Ying Ding, Yang Shen, Zhangyang Wang\\
 *In the IEEE Data Engineering Bulletin. 16 Pages.*\\
 [[PDF](http://sites.computer.org/debull/A23june/p78.pdf)]
