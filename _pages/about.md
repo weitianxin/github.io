@@ -27,7 +27,7 @@ Computer Science, School of the Gifted Young, University of Science and Technolo
 Research Intern, Amazon Search, Palo Alto <span style="float:right;">May. 2023-Aug. 2023</span>\\
 Topic: Multimodal personlization with large language model
 
-Research Intern, Amazon Search, Remote <span style="float:right;">Aug. 2023-Dec. 2023</span>\\
+Research Intern, Amazon Search, Remote <span style="float:right;">Aug. 2023-Dec. 2023</span>
 
 ## News
 * [08/2023] One paper (BNCL) accepted @ CIKM’23.
