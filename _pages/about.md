@@ -22,6 +22,14 @@ I am currently a second-year PhD student at UIUC. Before that, I earned my B.S i
 ## Education
 Computer Science, School of the Gifted Young, University of Science and Technology of China (USTC) <span style="float:right;">July. 2016-2021</span>
 
+## Intern Experience
+
+Amazon Search, Palo Alto <span style="float:right;">May. 2023-Aug. 2023</span>
+Full-time Research Intern 
+
+Amazon Search, Palo Alto <span style="float:right;">Aug. 2023-Dec. 2023</span>
+Part-time Research Intern 
+
 ## News
 * [08/2023] One paper (BNCL) accepted @ CIKM’23.
 * [05/2023] Received the ICML’23 Grant Award. Thanks to ICML!
@@ -50,6 +58,8 @@ Remote intern advised by Dr. **Ruirui Li** and Dr. **Oguz Elibol** in Amazon Ale
 Research intern advised by Prof. **Xiangnan He**             <span style="float:right;">March. 2019 – Present</span>   
 Department of Data Science, USTC, China  
 Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
+
+
 
 
 ## Preprints
@@ -112,7 +122,7 @@ Yan Han, Yuning You, Wenqing Zheng, Scott Hoang, **Tianxin Wei**, Majdi Hassan, 
 * SIGIR 2021 Best Paper Honorable Mention
 * NeurIPS 2022 Scholar Award
 * ICML 2023 Grant Award
-* Program Committee/Reviewer: CIKM (2021-2023), ICML (2022-2023), NeurIPS (2022-2023), ICLR 2023, WSDM 2023, AAAI 2023, KDD 2023, ACL 2023, LOG 2022
+* Program Committee/Reviewer: CIKM (2021-2023), ICML (2022-2023), NeurIPS (2022-2023), ICLR (2023-2024), WSDM 2023, AAAI (2023-2024), KDD 2023, ACL 2023, EMNLP 2023, LOG 2022
 * Journal Reviewer: TOIS, TKDE, DMKD, Machine Learning, TMLR
 
 <!-- 
