@@ -30,7 +30,7 @@ Topic: Multimodal personlization with large language model
 Research Intern, Amazon Search, Remote <span style="float:right;">Aug. 2023-Dec. 2023</span>
 
 ## News
-* [08/2023] One paper (BNCL) accepted @ CIKM’23.
+* [08/2023] One paper ([BNCL](https://weitianxin.github.io/files/CIKM23.pdf)) accepted @ CIKM’23.
 * [05/2023] Received the ICML’23 Grant Award. Thanks to ICML!
 * [04/2023] [MLP Fusion](https://github.com/weitianxin/mlp_fusion) (NTK-approximating MLP Fusion for efficient learning) accepted @ ICML’23.
 * [03/2023] Will join Amazon Search team as an applied scientist intern this summer. See you in Palo Alto!
