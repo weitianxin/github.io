@@ -59,13 +59,6 @@ Department of Data Science, USTC, China
 Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
 
 
-
-
-## Preprints
-Neural Collaborative Filtering Bandits via Meta Learning\\
-Yikun Ban, Yunzhe Qi, **Tianxin Wei**, and Jingrui He\\
-[[PDF](https://arxiv.org/abs/2201.13395)][[Code](https://github.com/banyikun/Meta_Ban)]
-
 ## Publications
 [*equal contribution]
 ### Conferences
@@ -115,6 +108,12 @@ Graph Contrastive Learning: An Odyssey towards Generalizable, Scalable and Princ
 Yan Han, Yuning You, Wenqing Zheng, Scott Hoang, **Tianxin Wei**, Majdi Hassan, Tianlong Chen, Ying Ding, Yang Shen, Zhangyang Wang\\
 *In the IEEE Data Engineering Bulletin. 16 Pages.*\\
 [[PDF](http://sites.computer.org/debull/A23june/p78.pdf)]
+
+
+## Preprints
+Neural Collaborative Filtering Bandits via Meta Learning\\
+Yikun Ban, Yunzhe Qi, **Tianxin Wei**, and Jingrui He\\
+[[PDF](https://arxiv.org/abs/2201.13395)][[Code](https://github.com/banyikun/Meta_Ban)]
 
 ## Services & Awards
 
