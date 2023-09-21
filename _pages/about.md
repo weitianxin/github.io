@@ -11,7 +11,7 @@ redirect_from:
 
 ## Bio
 
-I am currently a second-year PhD student at UIUC. Before that, I earned my B.S in Computer Science from School of the Gifted Young, University of Science and Technology of China. 
+I am currently a third-year PhD student at UIUC. Before that, I earned my B.S in Computer Science from School of the Gifted Young, University of Science and Technology of China. 
 
 **Research:** My research mainly focuses on trustworthy machine learning, graph representation learning, and data-centric AI. I am particularly interested in improving the efficiency, robustness and fairness of machine learning models across various modalities and disciplines, with the ultimate goal of making ML models more accessible and inclusive.
 
