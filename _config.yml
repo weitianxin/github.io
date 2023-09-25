@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tianxin Wei (魏天心)"
   avatar           : "wtx.jpg"
-  bio              : "Second-year PhD student at UIUC"
+  bio              : "Third-year PhD student at UIUC"
   location         : "Champaign, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,16 +99,16 @@ author:
   github           : "weitianxin"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/tianxin-wei-7063a2180/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"azHJbMh3W14HDBt"
+  twitter          : "https://twitter.com/wei_tianxin"
   vine             : 
   weibo            :
   xing             :
