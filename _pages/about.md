@@ -32,7 +32,7 @@ Topic: Multimodal personlization with large language model
 Research Intern, Amazon Search, Remote <span style="float:right;">Aug. 2023-Dec. 2023</span>
 
 ## News
-* [09/2023] Two papers accepted @ NeurIPS’23.
+* [09/2023] Two papers (Test-time personalization and bandit scheduler for meta-learning) accepted @ NeurIPS’23.
 * [08/2023] One paper ([BNCL](https://weitianxin.github.io/files/CIKM23.pdf)) accepted @ CIKM’23.
 * [05/2023] Received the ICML’23 Grant Award. Thanks to ICML!
 * [04/2023] [MLP Fusion](https://github.com/weitianxin/mlp_fusion) (NTK-approximating MLP Fusion for efficient learning) accepted @ ICML’23.
@@ -65,18 +65,14 @@ Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
 ## Publications
 [*equal contribution]
 ### Conferences
-NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning\\
-**Tianxin Wei\***, Zeming Guo\*, Yifan Chen\*, Jingrui He\\
-*In the ICML 2023 (Full Research, AR: 27.9%). 8 Pages.* \\
-[[PDF](https://arxiv.org/abs/2307.08941)][[Code](https://github.com/weitianxin/mlp_fusion)]
-
-Adaptive Test-Time Personalization for Federated Learning\\
-Wenxuan Bao*, **Tianxin Wei\***, Haohan Wang, Jingrui He
-*In the NeurIPS 2023 (Full Research, AR: 26.1%). 9 Pages.* \\
-[[PDF](TBD)][[Code](TBD)]
 
 Meta-Learning with Neural Bandit Scheduler\\
 Yunzhe Qi, Yikun Ban, **Tianxin Wei**, Jiaru Zou, Huaxiu Yao, Jingrui He \\
+*In the NeurIPS 2023 (Full Research, AR: 26.1%). 9 Pages.* \\
+[[PDF](TBD)][[Code](TBD)]
+
+Adaptive Test-Time Personalization for Federated Learning\\
+Wenxuan Bao*, **Tianxin Wei\***, Haohan Wang, Jingrui He \\
 *In the NeurIPS 2023 (Full Research, AR: 26.1%). 9 Pages.* \\
 [[PDF](TBD)][[Code](TBD)]
 
@@ -84,6 +80,11 @@ Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning\\
 Xinrui He\*, **Tianxin Wei\***, Jingrui He\\
 *In the CIKM 2023 (Full Research, AR: 24.0%). 9 Pages.* \\
 [[PDF](https://weitianxin.github.io/files/CIKM23.pdf)][[Code](TBD)]
+
+NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning\\
+**Tianxin Wei\***, Zeming Guo\*, Yifan Chen\*, Jingrui He\\
+*In the ICML 2023 (Full Research, AR: 27.9%). 8 Pages.* \\
+[[PDF](https://arxiv.org/abs/2307.08941)][[Code](https://github.com/weitianxin/mlp_fusion)]
 
 Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative\\
 **Tianxin Wei\***, Yuning You\*, Tianlong Chen, Yang Shen, Jingrui He, Zhangyang Wang\\
