@@ -13,7 +13,9 @@ redirect_from:
 
 I am currently a third-year PhD student at UIUC. Before that, I earned my B.S in Computer Science from School of the Gifted Young, University of Science and Technology of China. 
 
-**Research:** My research mainly focuses on trustworthy machine learning, graph representation learning, and data-centric AI. I am particularly interested in improving the efficiency, robustness and fairness of machine learning models across various modalities and disciplines, with the ultimate goal of making ML models more accessible and inclusive.
+**Research:** My research primarily centers on enhancing the trustworthiness of machine learning algorithms, with a special focus on issues such as bias, fairness, robustness, and transferability across various modalities and disciplines, with the ultimate goal of making ML models more accessible and inclusive. I am particularly interested in applying these principles to critical applications, most notably in the field of information retrieval from a data-centric perspective.
+
+<!-- My research mainly focuses on trustworthy machine learning, graph representation learning, and data-centric AI. I am particularly interested in improving the efficiency, robustness and fairness of machine learning models across various modalities and disciplines, with the ultimate goal of making ML models more accessible and inclusive. -->
 
 **Feel free to drop me an e-mail, if you are interested in my research and want to discuss relevant research topic or potential collaborations!**
 
@@ -67,6 +69,21 @@ NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning\\
 **Tianxin Wei\***, Zeming Guo\*, Yifan Chen\*, Jingrui He\\
 *In the ICML 2023 (Full Research, AR: 27.9%). 8 Pages.* \\
 [[PDF](https://arxiv.org/abs/2307.08941)][[Code](https://github.com/weitianxin/mlp_fusion)]
+
+Adaptive Test-Time Personalization for Federated Learning\\
+Wenxuan Bao*, **Tianxin Wei\***, Haohan Wang, Jingrui He
+*In the NeurIPS 2023 (Full Research, AR: 26.1%). 9 Pages.* \\
+[[PDF](TBD)][[Code](TBD)]
+
+Meta-Learning with Neural Bandit Scheduler\\
+Yunzhe Qi, Yikun Ban, **Tianxin Wei**, Jiaru Zou, Huaxiu Yao, Jingrui He \\
+*In the NeurIPS 2023 (Full Research, AR: 26.1%). 9 Pages.* \\
+[[PDF](TBD)][[Code](TBD)]
+
+Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning\\
+Xinrui He\*, **Tianxin Wei\***, Jingrui He\\
+*In the CIKM 2023 (Full Research, AR: 24.0%). 9 Pages.* \\
+[[PDF](https://weitianxin.github.io/files/CIKM23.pdf)][[Code](TBD)]
 
 Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative\\
 **Tianxin Wei\***, Yuning You\*, Tianlong Chen, Yang Shen, Jingrui He, Zhangyang Wang\\
