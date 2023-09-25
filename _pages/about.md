@@ -68,57 +68,57 @@ Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
 
 Meta-Learning with Neural Bandit Scheduler\\
 Yunzhe Qi, Yikun Ban, **Tianxin Wei**, Jiaru Zou, Huaxiu Yao, Jingrui He \\
-*In the NeurIPS 2023 (Full Research, AR: 26.1%). 9 Pages.* \\
+*In the NeurIPS 2023 (Full Research, AR: 26.1%).* \\
 [[PDF](TBD)][[Code](TBD)]
 
 Adaptive Test-Time Personalization for Federated Learning\\
 Wenxuan Bao*, **Tianxin Wei\***, Haohan Wang, Jingrui He \\
-*In the NeurIPS 2023 (Full Research, AR: 26.1%). 9 Pages.* \\
+*In the NeurIPS 2023 (Full Research, AR: 26.1%).* \\
 [[PDF](TBD)][[Code](TBD)]
 
 Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning\\
 Xinrui He\*, **Tianxin Wei\***, Jingrui He\\
-*In the CIKM 2023 (Full Research, AR: 24.0%). 9 Pages.* \\
+*In the CIKM 2023 (Full Research, AR: 24.0%).* \\
 [[PDF](https://weitianxin.github.io/files/CIKM23.pdf)][[Code](TBD)]
 
 NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning\\
 **Tianxin Wei\***, Zeming Guo\*, Yifan Chen\*, Jingrui He\\
-*In the ICML 2023 (Full Research, AR: 27.9%). 8 Pages.* \\
+*In the ICML 2023 (Full Research, AR: 27.9%).* \\
 [[PDF](https://arxiv.org/abs/2307.08941)][[Code](https://github.com/weitianxin/mlp_fusion)]
 
 Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative\\
 **Tianxin Wei\***, Yuning You\*, Tianlong Chen, Yang Shen, Jingrui He, Zhangyang Wang\\
-*In the NeurIPS 2022 (Full Research, AR: 25.6%). 10 Pages.* \\
+*In the NeurIPS 2022 (Full Research, AR: 25.6%).* \\
 [[PDF](https://arxiv.org/abs/2210.03801)][[Code](https://github.com/weitianxin/HyperGCL)][[appendix](../files/neurips22_hypergcl_appendix.pdf)]
 
 Comprehensive Fair Meta-learned Recommender System\\
 **Tianxin Wei**, Jingrui He\\
-*In the KDD 2022 (Full Research, AR: 15.0%). 10 Pages.* \\
+*In the KDD 2022 (Full Research, AR: 15.0%).* \\
 [[PDF](https://arxiv.org/abs/2206.04789)][[Code](https://github.com/weitianxin/CLOVER)]
 
 Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System\\
 **Tianxin Wei**, Fuli Feng, Jiawei Chen, Ziwei Wu, Jinfeng Yi, Xiangnan He\\
-*In the KDD 2021 (Full Research, AR: 15.4%). 10 Pages.* \\
+*In the KDD 2021 (Full Research, AR: 15.4%).* \\
 [[PDF](https://arxiv.org/abs/2010.15363)][[Code](https://github.com/weitianxin/MACR)]
 
 Causal Intervention for Leveraging Popularity Bias in Recommendation\\
 Yang Zhang, Fuli Feng, Xiangnan He, **Tianxin Wei**, Chonggang Song, Guohui Ling and Yongdong Zhang\\
-*In the SIGIR 2021 (**<font color='#c64444'>Best Paper Honorable Mention</font>**, 1 out of All, Full Research, AR: 21%). 10 Pages.*\\
+*In the SIGIR 2021 (**<font color='#c64444'>Best Paper Honorable Mention</font>**, 1 out of All, Full Research, AR: 21%).*\\
 [[PDF](https://arxiv.org/abs/2105.06067)][[Code](https://github.com/zyang1580/PDA)]
 
 Fast Adaptation for Cold-start Collaborative Filtering with Meta-learning  
 **Tianxin Wei**, Ziwei Wu, Ruirui Li, Ziniu Hu, Fuli Feng, Xiangnan He, Yizhou Sun, and Wei Wang\\
-*In the ICDM 2020 (Full Research, AR: 9.8%). 10 Pages.*\\
+*In the ICDM 2020 (Full Research, AR: 9.8%).*\\
 [[PDF](../files/ICDM_2020_MetaCF.pdf)][[Code](https://drive.google.com/file/d/1_UaPcCQLaEEWUCsMTRIgsvtWqorqsnUm/view?usp=sharing)]
 
 Unpaired Multimodal Neural Machine Translation via Reinforcement Learning  
 Yijun Wang\*, **Tianxin Wei\***, Qi Liu, Enhong Chen\\
-*In the DASFAA 2021 (Full Research, AR: 20%). 18 Pages.*\\
+*In the DASFAA 2021 (Full Research, AR: 20%).*\\
 [[PDF](https://www.springerprofessional.de/en/unpaired-multimodal-neural-machine-translation-via-reinforcement/19040758)]
 
 AR-Stock: Deep Augmented Relational Stock Prediction  
 **Tianxin Wei**, Yuning You, Tianlong Chen\\
-*In the AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data (Oral). 9 Pages.*\\
+*In the AAAI 2021 Workshop on Knowledge Discovery from Unstructured Data (Oral).*\\
 [[PDF](../files/AAAI21_ARStock.pdf)][[Code](https://github.com/weitianxin/FiAI_AR-Stock)]
 
 ### Journals
