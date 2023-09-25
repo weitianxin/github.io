@@ -72,7 +72,7 @@ Yunzhe Qi, Yikun Ban, **Tianxin Wei**, Jiaru Zou, Huaxiu Yao, Jingrui He \\
 [[PDF](TBD)][[Code](TBD)]
 
 Adaptive Test-Time Personalization for Federated Learning\\
-Wenxuan Bao*, **Tianxin Wei\***, Haohan Wang, Jingrui He \\
+Wenxuan Bao\*, **Tianxin Wei\***, Haohan Wang, Jingrui He \\
 *In the NeurIPS 2023 (Full Research, AR: 26.1%).* \\
 [[PDF](TBD)][[Code](TBD)]
 
