@@ -35,7 +35,7 @@ Research Intern, Amazon Search, Remote <span style="float:right;">Aug. 2023-Dec.
 * [09/2023] Two papers (Test-time personalization and bandit scheduler for meta-learning) accepted @ NeurIPS’23.
 * [08/2023] One paper ([BNCL](https://weitianxin.github.io/files/CIKM23.pdf)) accepted @ CIKM’23.
 * [05/2023] Received the ICML’23 Grant Award. Thanks to ICML!
-* [04/2023] [MLP Fusion](https://github.com/weitianxin/mlp_fusion) (NTK-approximating MLP Fusion for efficient learning) accepted @ ICML’23.
+* [04/2023] [MLP Fusion](https://weitianxin.github.io/files/mlp fusion.pdf) (NTK-approximating MLP Fusion for efficient learning) accepted @ ICML’23.
 * [03/2023] Will join Amazon Search team as an applied scientist intern this summer. See you in Palo Alto!
 * [12/2022] Collect a curated list of papers on the distribution shift in machine learning. Check out at [awesome-distribution-shift](https://github.com/weitianxin/awesome-distribution-shift)!
 * [10/2022] Awarded the NeurIPS’22 Scholar Award. Thanks to NeurIPS!
@@ -84,7 +84,7 @@ Xinrui He\*, **Tianxin Wei\***, Jingrui He\\
 NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning\\
 **Tianxin Wei\***, Zeming Guo\*, Yifan Chen\*, Jingrui He\\
 *In the ICML 2023 (Full Research, AR: 27.9%).* \\
-[[PDF](https://arxiv.org/abs/2307.08941)][[Code](https://github.com/weitianxin/mlp_fusion)]
+[[PDF](https://weitianxin.github.io/files/mlp fusion.pdf)][[Code](https://github.com/weitianxin/mlp_fusion)]
 
 Augmentations in Hypergraph Contrastive Learning: Fabricated and Generative\\
 **Tianxin Wei\***, Yuning You\*, Tianlong Chen, Yang Shen, Jingrui He, Zhangyang Wang\\
