@@ -76,10 +76,10 @@ Wenxuan Bao\*, **Tianxin Wei\***, Haohan Wang, Jingrui He \\
 *In the NeurIPS 2023 (Full Research, AR: 26.1%).* \\
 [[PDF](TBD)][[Code](TBD)]
 
-Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning\\
+<!--  Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning\\
 Xinrui He\*, **Tianxin Wei\***, Jingrui He\\
 *In the CIKM 2023 (Full Research, AR: 24.0%).* \\
-[[PDF](https://weitianxin.github.io/files/CIKM23.pdf)][[Code](TBD)]
+[[PDF](https://weitianxin.github.io/files/CIKM23.pdf)][[Code](TBD)] -->
 
 NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning\\
 **Tianxin Wei\***, Zeming Guo\*, Yifan Chen\*, Jingrui He\\
