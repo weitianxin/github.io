@@ -137,7 +137,7 @@ Yikun Ban, Yunzhe Qi, **Tianxin Wei**, and Jingrui He\\
 
 ## Services & Awards
 * SIGIR 2021 Best Paper Honorable Mention
-* * NeurIPS 2023 Scholar Award
+* NeurIPS 2023 Scholar Award
 * NeurIPS 2022 Scholar Award
 * ICML 2023 Grant Award
 * Program Committee/Reviewer: CIKM (2021-2023), ICML (2022-2023), NeurIPS (2022-2023), ICLR (2023-2024), WSDM 2023, AAAI (2023-2024), KDD 2023, ACL 2023, EMNLP 2023, LOG 2022
