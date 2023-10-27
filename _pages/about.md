@@ -32,6 +32,7 @@ Topic: Multimodal personlization with large language model
 Research Intern, Amazon Search, Remote <span style="float:right;">Aug. 2023-Dec. 2023</span>
 
 ## News
+* [10/2023] Awarded the NeurIPS’23 Scholar Award. Thanks to NeurIPS!
 * [09/2023] Two papers (Test-time personalization and bandit scheduler for meta-learning) accepted @ NeurIPS’23.
 * [08/2023] One paper ([BNCL](https://weitianxin.github.io/files/CIKM23.pdf)) accepted @ CIKM’23.
 * [05/2023] Received the ICML’23 Grant Award. Thanks to ICML!
@@ -135,8 +136,8 @@ Yikun Ban, Yunzhe Qi, **Tianxin Wei**, and Jingrui He\\
 [[PDF](https://arxiv.org/abs/2201.13395)][[Code](https://github.com/banyikun/Meta_Ban)]
 
 ## Services & Awards
-
 * SIGIR 2021 Best Paper Honorable Mention
+* * NeurIPS 2023 Scholar Award
 * NeurIPS 2022 Scholar Award
 * ICML 2023 Grant Award
 * Program Committee/Reviewer: CIKM (2021-2023), ICML (2022-2023), NeurIPS (2022-2023), ICLR (2023-2024), WSDM 2023, AAAI (2023-2024), KDD 2023, ACL 2023, EMNLP 2023, LOG 2022
