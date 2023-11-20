@@ -69,17 +69,17 @@ Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
 ## Preprints
 Neural Collaborative Filtering Bandits via Meta Learning\\
 Yikun Ban, Yunzhe Qi, **Tianxin Wei**, and Jingrui He\\
-preprint 2022.\\
+*preprint 2022.*\\
 [[PDF](https://arxiv.org/abs/2201.13395)][[Code](https://github.com/banyikun/Meta_Ban)]
 
 Language Models as Semantic Indexers\\
 Bowen Jin, Hansi Zeng, Guoyin Wang, Xiusi Chen, **Tianxin Wei**, and et al.\\
-preprint 2023.\\
+*preprint 2023.*\\
 [[PDF](https://arxiv.org/pdf/2310.07815v1.pdf)][[Code](TBD)]
 
 Scalable and Effective Generative Information Retrieval\\
 Hansi Zeng, Chen Luo, Bowen Jin, Sheikh Muhammad Sarwar, Tianxin Wei, and Hamed Zamani\\
-preprint 2023.\\
+*preprint 2023.*\\
 [[PDF](https://arxiv.org/pdf/2311.09134.pdf)][[Code](TBD)]
 
 ### Conferences
