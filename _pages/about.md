@@ -69,7 +69,7 @@ Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
 ## Preprints
 
 Scalable and Effective Generative Information Retrieval\\
-Hansi Zeng, Chen Luo, Bowen Jin, Sheikh Muhammad Sarwar, Tianxin Wei, and Hamed Zamani\\
+Hansi Zeng, Chen Luo, Bowen Jin, Sheikh Muhammad Sarwar, **Tianxin Wei**, and Hamed Zamani\\
 *preprint 2023.*\\
 [[PDF](https://arxiv.org/pdf/2311.09134.pdf)][[Code](TBD)]
 
