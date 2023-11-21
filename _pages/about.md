@@ -74,7 +74,7 @@ Hansi Zeng, Chen Luo, Bowen Jin, Sheikh Muhammad Sarwar, **Tianxin Wei**, and Ha
 [[PDF](https://arxiv.org/pdf/2311.09134.pdf)][[Code](TBD)]
 
 Language Models as Semantic Indexers\\
-Bowen Jin, Hansi Zeng, Guoyin Wang, Xiusi Chen, **Tianxin Wei**, and et al.\\
+Bowen Jin, Hansi Zeng, Guoyin Wang, Xiusi Chen, **Tianxin Wei**, Ruirui Li, Zhengyang Wang, Zheng Li, Yang Li, Hanqing Lu, Suhang Wang, Jiawei Han, Xianfeng Tang\\
 *preprint 2023.*\\
 [[PDF](https://arxiv.org/pdf/2310.07815v1.pdf)][[Code](TBD)]
 
