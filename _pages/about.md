@@ -32,6 +32,7 @@ Topic: Multimodal personlization with large language model
 Research Intern, Amazon Search, Remote <span style="float:right;">Aug. 2023-Dec. 2023</span>
 
 ## News
+* [12/2023] One paper accepted @ AAAI’24. Will attend NeurIPS'23 between Dec.9-16. See you there!
 * [10/2023] Awarded the NeurIPS’23 Scholar Award. Thanks to NeurIPS!
 * [09/2023] Two papers (Test-time personalization and bandit scheduler for meta-learning) accepted @ NeurIPS’23.
 * [08/2023] One paper ([BNCL](https://weitianxin.github.io/files/CIKM23.pdf)) accepted @ CIKM’23.
