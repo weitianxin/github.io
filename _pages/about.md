@@ -69,8 +69,18 @@ Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
 
 ## Preprints
 
+Towards Universal Multi-Modal Personalization: A Language Model Empowered Generative Paradigm
+**Tianxin Wei**, Bowen Jin, Ruirui Li, Hansi Zeng, Zhengyang Wang, Jianhui Sun, Qingyu Yin, Hanqing Lu, Suhang Wang, Jingrui He, Xianfeng Tang
+*preprint 2023.*\\
+[[PDF](TBD)][[Code](TBD)]
+
+Connecting Domains and Contrasting Samples: A Ladder for Domain Generalization\\
+**Tianxin Wei\***, Yifan Chen\*, Xinrui He, Jingrui He\\
+*preprint 2023.*\\
+[[PDF](TBD)][[Code](TBD)]
+
 Scalable and Effective Generative Information Retrieval\\
-Hansi Zeng, Chen Luo, Bowen Jin, Sheikh Muhammad Sarwar, **Tianxin Wei**, and Hamed Zamani\\
+Hansi Zeng, Chen Luo, Bowen Jin, Sheikh Muhammad Sarwar, **Tianxin Wei**, Hamed Zamani\\
 *preprint 2023.*\\
 [[PDF](https://arxiv.org/pdf/2311.09134.pdf)][[Code](TBD)]
 
@@ -80,11 +90,16 @@ Bowen Jin, Hansi Zeng, Guoyin Wang, Xiusi Chen, **Tianxin Wei**, Ruirui Li, Zhen
 [[PDF](https://arxiv.org/pdf/2310.07815v1.pdf)][[Code](TBD)]
 
 Neural Collaborative Filtering Bandits via Meta Learning\\
-Yikun Ban, Yunzhe Qi, **Tianxin Wei**, and Jingrui He\\
+Yikun Ban, Yunzhe Qi, **Tianxin Wei**, Jingrui He\\
 *preprint 2022.*\\
 [[PDF](https://arxiv.org/abs/2201.13395)][[Code](https://github.com/banyikun/Meta_Ban)]
 
 ### Conferences
+
+TAU: Trajectory Data Augmentation with Uncertainty for Next POI Recommendation\\
+Zhuang Zhuang, **Tianxin Wei**, Lingbo Liu, Heng Qi, Yanming Shen, Baocai Yin\\
+*In the AAAI 2024 (Full Research, AR: 24%).* \\
+[[PDF](TBD)][[Code](TBD)]
 
 Meta-Learning with Neural Bandit Scheduler\\
 Yunzhe Qi, Yikun Ban, **Tianxin Wei**, Jiaru Zou, Huaxiu Yao, Jingrui He \\
