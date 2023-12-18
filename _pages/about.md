@@ -69,8 +69,8 @@ Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
 
 ## Preprints
 
-Towards Universal Multi-Modal Personalization: A Language Model Empowered Generative Paradigm
-**Tianxin Wei**, Bowen Jin, Ruirui Li, Hansi Zeng, Zhengyang Wang, Jianhui Sun, Qingyu Yin, Hanqing Lu, Suhang Wang, Jingrui He, Xianfeng Tang
+Towards Universal Multi-Modal Personalization: A Language Model Empowered Generative Paradigm\\
+**Tianxin Wei**, Bowen Jin, Ruirui Li, Hansi Zeng, Zhengyang Wang, Jianhui Sun, Qingyu Yin, Hanqing Lu, Suhang Wang, Jingrui He, Xianfeng Tang\\
 *preprint 2023.*\\
 [[PDF](TBD)][[Code](TBD)]
 
