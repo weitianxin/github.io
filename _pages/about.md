@@ -69,11 +69,6 @@ Also co-advised by Dr. **Fuli Feng** in National University of Singapore -->
 
 ## Preprints
 
-Towards Universal Multi-Modal Personalization: A Language Model Empowered Generative Paradigm\\
-**Tianxin Wei**, Bowen Jin, Ruirui Li, Hansi Zeng, Zhengyang Wang, Jianhui Sun, Qingyu Yin, Hanqing Lu, Suhang Wang, Jingrui He, Xianfeng Tang\\
-*preprint 2023.*\\
-[[PDF](TBD)][[Code](TBD)]
-
 Connecting Domains and Contrasting Samples: A Ladder for Domain Generalization\\
 **Tianxin Wei\***, Yifan Chen\*, Xinrui He, Jingrui He\\
 *preprint 2023.*\\
@@ -95,6 +90,11 @@ Yikun Ban, Yunzhe Qi, **Tianxin Wei**, Jingrui He\\
 [[PDF](https://arxiv.org/abs/2201.13395)][[Code](https://github.com/banyikun/Meta_Ban)]
 
 ### Conferences
+
+Towards Universal Multi-Modal Personalization: A Language Model Empowered Generative Paradigm\\
+**Tianxin Wei**, Bowen Jin, Ruirui Li, Hansi Zeng, Zhengyang Wang, Jianhui Sun, Qingyu Yin, Hanqing Lu, Suhang Wang, Jingrui He, Xianfeng Tang\\
+*In the ICLR 2024 (Full Research, AR: 31%).*\\
+[[PDF](TBD)][[Code](TBD)]
 
 TAU: Trajectory Data Augmentation with Uncertainty for Next POI Recommendation\\
 Zhuang Zhuang, **Tianxin Wei**, Lingbo Liu, Heng Qi, Yanming Shen, Baocai Yin\\
