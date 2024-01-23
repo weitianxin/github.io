@@ -32,6 +32,8 @@ Topic: Multimodal personlization with large language model
 Research Intern, Amazon Search, Remote <span style="float:right;">Aug. 2023-Dec. 2023</span>
 
 ## News
+* [01/2024] One paper RIPOR (Scalable and effective generative retrieval) accepted @ WWW’24.
+* [01/2024] One paper UniMP (Universal multi-modal personalization including recommendation and search) accepted @ ICLR’24.
 * [12/2023] One paper accepted @ AAAI’24. Will attend NeurIPS'23 between Dec. 9-16. See you there!
 * [10/2023] Awarded the NeurIPS’23 Scholar Award. Thanks to NeurIPS!
 * [09/2023] Two papers (Test-time personalization and bandit scheduler for meta-learning) accepted @ NeurIPS’23.
@@ -74,11 +76,6 @@ Connecting Domains and Contrasting Samples: A Ladder for Domain Generalization\\
 *preprint 2023.*\\
 [[PDF](TBD)][[Code](TBD)]
 
-Scalable and Effective Generative Information Retrieval\\
-Hansi Zeng, Chen Luo, Bowen Jin, Sheikh Muhammad Sarwar, **Tianxin Wei**, Hamed Zamani\\
-*preprint 2023.*\\
-[[PDF](https://arxiv.org/pdf/2311.09134.pdf)][[Code](TBD)]
-
 Language Models as Semantic Indexers\\
 Bowen Jin, Hansi Zeng, Guoyin Wang, Xiusi Chen, **Tianxin Wei**, Ruirui Li, Zhengyang Wang, Zheng Li, Yang Li, Hanqing Lu, Suhang Wang, Jiawei Han, Xianfeng Tang\\
 *preprint 2023.*\\
@@ -90,6 +87,11 @@ Yikun Ban, Yunzhe Qi, **Tianxin Wei**, Jingrui He\\
 [[PDF](https://arxiv.org/abs/2201.13395)][[Code](https://github.com/banyikun/Meta_Ban)]
 
 ### Conferences
+
+Scalable and Effective Generative Information Retrieval\\
+Hansi Zeng, Chen Luo, Bowen Jin, Sheikh Muhammad Sarwar, **Tianxin Wei**, Hamed Zamani\\
+*In the WWW 2024 (Full Research, AR: 20.2%).*\\
+[[PDF](https://arxiv.org/pdf/2311.09134.pdf)][[Code](TBD)]
 
 Towards Universal Multi-Modal Personalization: A Language Model Empowered Generative Paradigm\\
 **Tianxin Wei**, Bowen Jin, Ruirui Li, Hansi Zeng, Zhengyang Wang, Jianhui Sun, Qingyu Yin, Hanqing Lu, Suhang Wang, Jingrui He, Xianfeng Tang\\
